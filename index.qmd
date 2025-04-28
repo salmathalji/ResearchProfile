@@ -1,5 +1,5 @@
 ---
-title: "Quarto_Website_Template"
+title: "Quarto Website Template"
 ---
 
 This is a Quarto website.
