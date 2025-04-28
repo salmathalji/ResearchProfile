@@ -1,6 +1,6 @@
 # QuartoWebsite
 
-This repository serves as a Template to set up a Quarto website on the TSCN GitHub organization.
+This repository serves as a template to set up a Quarto website on the TSCN GitHub organization.
 
 In order to set up a new Quarto website, you need to follow these steps:
 
