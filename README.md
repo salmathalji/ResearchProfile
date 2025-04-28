@@ -4,15 +4,18 @@ This repository serves as a Template to set up a Quarto website on the TSCN GitH
 
 In order to set up a new Quarto website, you need to follow these steps:
 
--   Create a new repository in the TSCN GitHub organization.
--   Use the template `tscnlab/QuartoWebsite`
+-   Click on `Use this template` > `Create a new repository` in the top right corner of this page. 
+-   Alternatively, you can simple create a new repository in the TSCN GitHub organization and use the template `tscnlab/QuartoWebsite` (see image below)
+
+**Before you create the repository**:
+
 -   Check the box `Include all branches`
 -   Set the repository visibility to `Public` (no site will be published otherwise)
 -   Click `Create repository`
 
-![](assets/new_repo1.png)
-
 **Congratulations - you have created a Website, complete with continuous integration (CI)**
+
+![](assets/new_repo1.png)
 
 The website will be published at `https://tscnlab.github.io/<REPOSITORY_NAME>/` where `<REPOSITORY_NAME>` is the name of your repository.
 
