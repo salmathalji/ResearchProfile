@@ -20,7 +20,7 @@ about:
       href: "https://www.linkedin.com"  # replace with your LinkedIn URL
 ---
 
-::: {.hero}
+
 # Salma M. Thalji
 
 **PhD Candidate – Neural Information Processing**  
@@ -28,9 +28,9 @@ University of Tübingen · Technical University of Munich
 
 📧 [salma.thalji@tum.de](mailto:salma.thalji@tum.de)  
 🔗 LinkedIn (add your URL in the header)
-:::
 
-::: {.callout-note}
+
+
 ### Vision
 
 Drawing on my training in circadian neuroscience, neuroinformatics and electrical engineering, my vision is to help create a world where people can clearly understand how their everyday environments influence their wellbeing.
@@ -38,7 +38,7 @@ Drawing on my training in circadian neuroscience, neuroinformatics and electrica
 I want health wearable technologies to evolve into companions that translate continuously monitored physiological signals, behavioral habits and environmental exposures into insights that feel personal, practical and empowering.
 
 I’m committed to being a leader in the health exposome movement and designing inclusive tools that honor gender, cultural and environmental diversity.
-:::
+
 
 ## Snapshot
 
