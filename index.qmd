@@ -1,4 +1,3 @@
-
 ---
 title: "Salma M. Thalji"
 subtitle: "PhD Candidate in Neural Information Processing"
