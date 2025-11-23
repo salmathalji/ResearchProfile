@@ -10,7 +10,7 @@ website:
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
-  navbar:also 
+  navbar: 
     left:
       - href: index.qmd
         text: CV
