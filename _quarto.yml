@@ -2,9 +2,9 @@ project:
   type: website
 
 website:
-  title: "Quarto Website Template"
+  title: "Salma Thalji | Research Profile"
 #  site-url: put site url here
-  repo-url: https://github.com/tscnlab/QuartoWebsite
+  repo-url: https://github.com/salmathalji/ResearchProfile
 #  repo-url: put repo url here and delete previous line
 #  issue-url: put issue subpage here
   repo-actions: [edit, issue]
@@ -14,15 +14,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "About"
-        href: about.qmd
-      - text: "License"
-        href: license.md
-      - text: "Contributing"
-        href: contributing.qmd
+      # - text: "About"
+      #   href: about.qmd
+      # - text: "License"
+      #   href: license.md
+      # - text: "Contributing"
+      #   href: contributing.qmd
     right:
       - icon: github
-        href: https://github.com/tscnlab/QuartoWebsite
+        href: https://github.com/salmathalji/ResearchProfile
 #        href: put repo url here and delete previous line
         aria-label: Quarto GitHub
 
