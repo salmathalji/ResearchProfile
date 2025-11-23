@@ -1,5 +1,21 @@
 /* css styles */
 
+/* Make all text left-aligned */
+body, p, li, h1, h2, h3, h4, h5, h6 {
+  text-align: left !important;
+}
+
+/* Optional: improve readability */
 p {
-  text-align: justify
+  line-height: 1.5;
+  max-width: 850px;
+}
+
+/* Fix Quarto about/jolla template (it centers text by default) */
+.about-content {
+  text-align: left !important;
+}
+
+.about-links {
+  justify-content: flex-start !important;
 }
