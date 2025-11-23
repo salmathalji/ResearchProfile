@@ -17,7 +17,7 @@ about:
       href: "mailto:salma.thalji@tum.de"
     - icon: linkedin
       text: "LinkedIn"
-      href: "https://www.linkedin.com"  # replace with your LinkedIn URL
+      href: "www.linkedin.com/in/salma-thalji"  # replace with your LinkedIn URL
 ---
 
 ::: {.hero}
