@@ -1,6 +1,4 @@
 ---
-title: "Salma M. Thalji"
-subtitle: "PhD Candidate in Neural Information Processing"
 format:
   html:
     theme: cosmo
@@ -10,14 +8,13 @@ format:
     smooth-scroll: true
 about:
   template: jolla
-  image: profile.jpg   # replace with your profile image filename or remove this line
   links:
     - icon: envelope
       text: "salma.thalji@tum.de"
       href: "mailto:salma.thalji@tum.de"
     - icon: linkedin
       text: "LinkedIn"
-      href: "www.linkedin.com/in/salma-thalji"  # replace with your LinkedIn URL
+      href: "https://www.linkedin.com/in/salma-thalji/"  # replace with your LinkedIn URL
 ---
 
 ::: {.hero}
