@@ -1,18 +1,176 @@
+
 ---
-title: "Quarto Website Template"
-bibliography: references.bib
+title: "Salma M. Thalji"
+subtitle: "PhD Candidate in Neural Information Processing"
 format:
   html:
+    theme: cosmo
     toc: true
     toc-location: left
-    lightbox: true
+    page-layout: full
+    smooth-scroll: true
+about:
+  template: jolla
+  image: profile.jpg   # replace with your profile image filename or remove this line
+  links:
+    - icon: envelope
+      text: "salma.thalji@tum.de"
+      href: "mailto:salma.thalji@tum.de"
+    - icon: linkedin
+      text: "LinkedIn"
+      href: "https://www.linkedin.com"  # replace with your LinkedIn URL
+---
+
+::: {.hero}
+# Salma M. Thalji
+
+**PhD Candidate – Neural Information Processing**  
+University of Tübingen · Technical University of Munich  
+
+📧 [salma.thalji@tum.de](mailto:salma.thalji@tum.de)  
+🔗 LinkedIn (add your URL in the header)
+:::
+
+::: {.callout-note}
+### Vision
+
+Drawing on my training in circadian neuroscience, neuroinformatics and electrical engineering, my vision is to help create a world where people can clearly understand how their everyday environments influence their wellbeing.
+
+I want health wearable technologies to evolve into companions that translate continuously monitored physiological signals, behavioral habits and environmental exposures into insights that feel personal, practical and empowering.
+
+I’m committed to being a leader in the health exposome movement and designing inclusive tools that honor gender, cultural and environmental diversity.
+:::
+
+## Snapshot
+
+- **Areas:** Circadian neuroscience, visual experience, neuroinformatics, signal processing, research software engineering  
+- **Current roles:**
+  - Research Software Engineer, Translational Sensory & Circadian Neuroscience Unit (tSCN), Technical University of Munich
+  - PhD Researcher, Max Planck Institute for Biological Cybernetics
+- **Interests:** Health exposome, metadata standards, open science, inclusive technology design
 
 ---
 
-This is a Quarto website.
+## Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Eberhard Karls University of Tübingen – Graduate Training Centre of Neuroscience
+*Tübingen, Germany*  
 
-```{r}
-1 + 1
-```
+- **Doctoral Student, Neural Information Processing** (April 2019 – present)  
+  - Advisor: **Prof. Dr. Manuel Spitschan** (January 2024 – present)  
+  - Advisors: **Prof. Dr. Andreas Bartels** / **Prof. Dr.-Ing. Cristóbal Curio** (April 2019 – December 2023)  
+- **Master of Science, Neural Information Processing** (December 2017)  
+  - Overall Grade: 1.4 (German system)
+
+### University of Illinois – Department of Electrical & Computer Engineering
+*Urbana-Champaign, IL, USA*  
+
+- **Graduate Research, Electrical Engineering** (August 2006 – August 2010)  
+  - Emphasis: Neural Signal Processing  
+  - GPA: 3.79 / 4.00  
+- **Bachelor of Science, Electrical Engineering, with Honors** (August 2002 – May 2006)  
+  - Minors: Bioengineering; Technology & Management  
+  - GPA: 3.76 / 4.00  
+
+---
+
+## Doctoral Research Experience
+
+### Translational Sensory & Circadian Neuroscience Unit (tSCN Unit)
+*Munich & Tübingen, Germany*  
+
+**Research Software Engineer – Technical University of Munich** (February 2025 – present)  
+**Project: GLEE (Global Light Exposure and Experience)**  
+
+- Research initiative focused on standardizing the collection and analysis of light exposure and visual experience data  
+- Lead development of modular, interoperable infrastructure for storing, managing and sharing global light exposure data  
+- Collaborate with experts and international groups to harmonize metadata standards for light-exposure research  
+
+**PhD Researcher – Max Planck Institute for Biological Cybernetics** (January 2024 – present)  
+**Project: CiViBe (Circadian Modulation of Visual Function – Behavioral Outcomes)**  
+
+- Investigates circadian rhythms of retinal mechanisms and neuroendocrine systems  
+- Co-lead physiological data collection within a forced desynchrony protocol  
+- Analyze multimodal circadian physiology (continuous glucose monitoring, electrocardiogram, blood pressure, temperature)  
+
+### Cognitive Systems Laboratory
+*Tübingen/Reutlingen, Germany*  
+
+**PhD Researcher – University of Tübingen / Reutlingen University** (April 2019 – December 2024)  
+**Project: Facial Visuomotor Adaptation & Vibrotactile Perceptual Aftereffects**  
+
+- Provide insights on visuomotor control mechanisms underlying facial movement execution  
+- Built Python pipelines for real-time facial muscle activation (VICON) and toolkits for behavioral and motion signal processing  
+- Designed Unity-based visuomotor adaptation and tactile psychophysics experiments  
+
+---
+
+## Select Research Outputs
+
+### Publications
+
+- Thalji, S. M., & Spitschan, M. (2025). *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.* **Journal of Biological Rhythms**, November 2025.  
+  Preprint: <https://doi.org/10.1101/2025.01.13.632603>
+
+### Selected Conference Contributions
+
+- **Poster:** Thalji, S. M., & Spitschan, M. (2025, August 24–28).  
+  *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.*  
+  XVIII Congress of the European Biological Rhythms Society (EBRS 2025), Lübeck, Germany.
+
+- **Poster:** Thalji, S. M., Heinrichs, H. S., & Spitschan, M. (2024, June 20–22).  
+  *Estimating the downstream perturbative effects of light stimuli used to probe the circadian modulation of retinal function.*  
+  35th Annual Meeting of the Society for Light Treatment and Biological Rhythms (SLTBR 2024), Prague, Czech Republic.
+
+- **Poster:** Thalji, S. M., Rehmann, M., & Curio, C. (2020, September).  
+  *Perceptual tactile aftereffects around the waist: Insights on the design of stimulation type.*  
+  Eurohaptics Conference, Leiden, The Netherlands.
+
+---
+
+## Leadership & Engagement
+
+- **Lightning Talk Speaker** – Open Science Days, Max Planck Digital Library, Harnack-Haus, Berlin, Germany (November 2025)  
+  - Talk: *Global Light Commons: Open Science and Epistemic Equity*  
+
+- **Panel Moderator** – Congress of the European Biological Rhythms Society 2025, Lübeck, Germany (August 2025)  
+  - Symposium 7: *Circadian Medicine – Detecting the Clock*  
+
+- **Volunteer & Organizer** – Soapbox Science, Tübingen, Germany (July 2025)  
+  - International science communication and public engagement platform highlighting women and non-binary scientists  
+
+---
+
+## Teaching & Mentoring
+
+- **Thesis Supervision** – MPI Biological Cybernetics, Reutlingen University, Germany (2018–2025)  
+  - Supervised 6 MSc theses and 2 undergraduate capstone projects  
+
+- **University Lecturer** – German Jordanian University, Department of Biomedical Engineering, Amman, Jordan (2011–2013)  
+  - Developed and taught senior undergraduate courses in Biosignals & Biosystems, Medical Instrumentation and Imaging  
+
+- **Head Teaching Assistant** – University of Illinois at Urbana-Champaign, USA (2005–2008)  
+  - Co-designed and led laboratory experiments on development of breadboard circuits for probing physiological signals  
+
+---
+
+## Workshops & Summer Schools
+
+- **Young Entrepreneurs in Science Workshop: From Research to Innovator**, Online (June 2025)  
+- **Research Software Engineering Summer School**, KIT, Karlsruhe, Germany (September 2024)  
+- **5th Summer School on Computational Interaction**, Columbia University, NYC, USA (July 2019)  
+
+---
+
+## Skills
+
+- **Laboratory:** Biophysiological signal recording & analysis; psychophysical experimentation; Vicon facial motion capture  
+- **Computing:** Python; MATLAB; R; Unity; C#  
+- **Languages:** English (Native); Arabic (Native); German (C1 CEFR); French (A1 CEFR)  
+
+---
+
+## Honors
+
+- Shortlisted – **Software Sustainability Institute Fellowship 2026** (final decision pending), November 2025  
+- **RSE Community “Rising Star” Nominee** – RSECon 2025, University of Warwick, UK (August 2025)

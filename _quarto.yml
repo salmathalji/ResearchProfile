@@ -10,10 +10,10 @@ website:
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
-  navbar:
+  navbar:also 
     left:
       - href: index.qmd
-        text: Home
+        text: CV
       # - text: "About"
       #   href: about.qmd
       # - text: "License"
