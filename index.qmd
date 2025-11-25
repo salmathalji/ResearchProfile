@@ -83,9 +83,9 @@ I’m committed to being a leader in the health exposome movement and designing 
 <div class="cv-item-location">Munich & Tübingen, Germany</div>
 
 - **Project: GLEE (Global Light Exposure and Experience)**  
-- Research initiative focused on standardizing the collection and analysis of light exposure and visual experience data  
-- Lead development of modular, interoperable infrastructure for storing, managing and sharing global light exposure data  
-- Collaborate with experts and international groups to harmonize metadata standards for light-exposure research  
+  <div><em>Research initiative focused on standardizing the collection and analysis of light exposure and visual experience data</em>  
+  - Lead development of modular, interoperable infrastructure for storing, managing and sharing global light exposure data  
+  - Collaborate with experts and international groups to harmonize metadata standards for light-exposure research  
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>PhD Researcher – Max Planck Institute for Biological Cybernetics</strong></div>
@@ -93,9 +93,9 @@ I’m committed to being a leader in the health exposome movement and designing 
 </div>
 
 - **Project: CiViBe (Circadian Modulation of Visual Function – Behavioral Outcomes)**  
-- Investigates circadian rhythms of retinal mechanisms and neuroendocrine systems  
-- Co-lead physiological data collection within a forced desynchrony protocol  
-- Analyze multimodal circadian physiology (continuous glucose monitoring, electrocardiogram, blood pressure, temperature)  
+  <div><em>Investigates circadian rhythms of retinal mechanisms and neuroendocrine systems</em>  
+  - Co-lead physiological data collection within a forced desynchrony protocol  
+  - Analyze multimodal circadian physiology (continuous glucose monitoring, electrocardiogram, blood pressure, temperature)  
 
 ### Cognitive Systems Laboratory
 
@@ -106,9 +106,9 @@ I’m committed to being a leader in the health exposome movement and designing 
 <div class="cv-item-location">Tübingen / Reutlingen, Germany</div>
 
 - **Project: Facial Visuomotor Adaptation & Vibrotactile Perceptual Aftereffects**  
-- Provide insights on visuomotor control mechanisms underlying facial movement execution  
-- Built Python pipelines for real-time facial muscle activation (VICON) and toolkits for behavioral and motion signal processing  
-- Designed Unity-based visuomotor adaptation and tactile psychophysics experiments  
+  <div><em>Provide insights on visuomotor control mechanisms underlying facial movement execution</em>  
+  - Built Python pipelines for real-time facial muscle activation (VICON) and toolkits for behavioral and motion signal processing  
+  - Designed Unity-based visuomotor adaptation and tactile psychophysics experiments  
 
 ## Select Research Outputs
 
@@ -213,7 +213,7 @@ I’m committed to being a leader in the health exposome movement and designing 
 ## Honors
 
 <div class="cv-item-header">
-  <div><strong>Software Sustainability Institute Fellowship 2026 – Shortlisted</strong></div>
+  <div><strong>Software Sustainability Institute Fellowship 2026</strong> – Shortlisted (final decision pending)</div>
   <div class="cv-item-date">November 2025</div>
 </div>
 
