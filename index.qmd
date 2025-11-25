@@ -114,20 +114,24 @@ I’m committed to being a leader in the health exposome movement and designing 
 
 ### Publications
 
-- Thalji, S. M., & Spitschan, M. (2025). *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.* _Journal of Biological Rhythms_, November 2025.  
+- <div><strong>Thalji, S. M.<\strong>, & Spitschan, M. (2025). *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.* _Journal of Biological Rhythms_, November 2025.  
   Preprint: <https://doi.org/10.1101/2025.01.13.632603>
+  
+- Spitschan, M., Biller, A. M., Broszio, K., Fischer, E., Hegewald, J., Rabstein, S., Saathoff, E., Smolders, K., <div><strong>Thalji, S. M.<\strong>, Weigelt, S., & Weiskopf, D. (2025). *Ocular light and optical radiation exposure as a modifiable environmental determinant of health: Expert consensus on research gaps and priorities.*  
+  Preprint: <https://doi.org/10.1101/2025.08.27.25333976>
+
 
 ### Selected Conference Contributions
 
-- **Poster:** Thalji, S. M., & Spitschan, M. (2025, August 24–28).  
+- **Poster:** <div><strong>Thalji, S. M.<\strong>, & Spitschan, M. (2025, August 24–28).  
   *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.*  
   XVIII Congress of the European Biological Rhythms Society (EBRS 2025), Lübeck, Germany.
 
-- **Poster:** Thalji, S. M., Heinrichs, H. S., & Spitschan, M. (2024, June 20–22).  
+- **Poster:** <div><strong>Thalji, S. M.<\strong>, Heinrichs, H. S., & Spitschan, M. (2024, June 20–22).  
   *Estimating the downstream perturbative effects of light stimuli used to probe the circadian modulation of retinal function.*  
   35th Annual Meeting of the Society for Light Treatment and Biological Rhythms (SLTBR 2024), Prague, Czech Republic.
 
-- **Poster:** Thalji, S. M., Rehmann, M., & Curio, C. (2020, September).  
+- **Poster:** <div><strong>Thalji, S. M.<\strong>, Rehmann, M., & Curio, C. (2020, September).  
   *Perceptual tactile aftereffects around the waist: Insights on the design of stimulation type.*  
   Eurohaptics Conference, Leiden, The Netherlands.
 

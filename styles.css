@@ -10,7 +10,7 @@ body {
 /* --- Colours & variables --- */
 
 :root {
-  --cv-accent: #57b597;   /* heading colour */
+  --cv-accent: #57b596;   /* heading colour */
   --cv-muted:  #666666;
   --cv-rule:   #314b57;
 }
