@@ -5,12 +5,10 @@ body {
   line-height: 1.5;
 }
 
-/* No forced justification anymore – let the browser do normal left alignment */
-
 /* --- Colours & variables --- */
 
 :root {
-  --cv-accent: #57b596;   /* heading colour */
+  --cv-accent: #57b596;   /* heading color */
   --cv-muted:  #666666;
   --cv-rule:   #314b57;
 }
@@ -45,7 +43,7 @@ h2 {
 h3 {
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
-  font-size: 1.0rem;
+  font-size: 3.0rem;
   color: #222222;
 }
 
