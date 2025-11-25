@@ -183,11 +183,31 @@ I’m committed to being a leader in the health exposome movement and designing 
 
 - Head Teaching Assistant – breadboard circuits for physiological signals  
 
-## Workshops & Summer Schools
+::: {.cv-section}
+### Workshops & Summer Schools {#workshops .cv-section-title}
 
-- **Young Entrepreneurs in Science Workshop: From Research to Innovator**, Online · June 2025  
-- **Research Software Engineering Summer School**, KIT, Karlsruhe, Germany · September 2024  
-- **5th Summer School on Computational Interaction**, Columbia University, NYC, USA · July 2019  
+::: {.cv-item}
+<div class="cv-item-header">
+  <div><strong>Young Entrepreneurs in Science Workshop: From Research to Innovator</strong></div>
+  <div class="cv-item-location">Online · June 2025</div>
+</div>
+:::
+
+::: {.cv-item}
+<div class="cv-item-header">
+  <div><strong>Research Software Engineering Summer School</strong></div>
+  <div class="cv-item-location">KIT, Karlsruhe, Germany · September 2024</div>
+</div>
+:::
+
+::: {.cv-item}
+<div class="cv-item-header">
+  <div><strong>5th Summer School on Computational Interaction</strong></div>
+  <div class="cv-item-location">Columbia University, NYC, USA · July 2019</div>
+</div>
+:::
+:::
+  
 
 ## Skills
 
@@ -195,7 +215,20 @@ I’m committed to being a leader in the health exposome movement and designing 
 - **Computing:** Python; MATLAB; R; Unity; C#  
 - **Languages:** English (Native); Arabic (Native); German (C1 CEFR); French (A1 CEFR)  
 
-## Honors
+::: {.cv-section}
+### Honors {#honors .cv-section-title}
 
-- Shortlisted – **Software Sustainability Institute Fellowship 2026** (final decision pending), November 2025  
-- **RSE Community “Rising Star” Nominee** – RSECon 2025, University of Warwick, UK, August 2025  
+::: {.cv-item}
+<div class="cv-item-header">
+  <div><strong>Software Sustainability Institute Fellowship 2026</strong></div>
+  <div class="cv-item-location">Shortlisted · November 2025</div>
+</div>
+:::
+
+::: {.cv-item}
+<div class="cv-item-header">
+  <div><strong>RSE Community “Rising Star” – RSECon 2025</strong></div>
+  <div class="cv-item-location">University of Warwick, UK · August 2025</div>
+</div>
+:::
+:::
