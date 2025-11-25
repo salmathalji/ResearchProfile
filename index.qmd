@@ -17,237 +17,185 @@ University of Tübingen · Technical University of Munich
 📧 [salma.thalji@tum.de](mailto:salma.thalji@tum.de)
 :::
 
-::: {.cv-section}
-### {#vision .cv-section-title} Vision
+## Vision
 
 Drawing on my training in circadian neuroscience, neuroinformatics and electrical engineering, my vision is to help create a world where people can clearly understand how their everyday environments influence their wellbeing.
 
 I want health wearable technologies to evolve into companions that translate continuously monitored physiological signals, behavioral habits and environmental exposures into insights that feel personal, practical and empowering.
 
 I’m committed to being a leader in the health exposome movement and designing inclusive tools that honor gender, cultural and environmental diversity.
-:::
 
-::: {.cv-section}
-### {#snapshot .cv-section-title} Snapshot
+## Snapshot
 
 - **Areas:** Circadian neuroscience; visual experience; neuroinformatics; signal processing; research software engineering  
 - **Current roles:**
   - Research Software Engineer, Translational Sensory & Circadian Neuroscience Unit (tSCN), Technical University of Munich
   - PhD Researcher, Max Planck Institute for Biological Cybernetics
-- **Interests:** Health exposome; metadata standards; open science; inclusive technology design
-:::
+- **Interests:** Health exposome; metadata standards; open science; inclusive technology design  
 
-::: {.cv-section}
-### {#education .cv-section-title} Education
+## Education
 
-::: {.cv-item}
+### Eberhard Karls University of Tübingen – Graduate Training Centre of Neuroscience
+
 <div class="cv-item-header">
-  <div><strong>Eberhard Karls University of Tübingen – Graduate Training Centre of Neuroscience</strong></div>
-  <div class="cv-item-location">Tübingen, Germany</div>
+  <div><strong>Doctoral Student, Neural Information Processing</strong></div>
+  <div class="cv-item-date">April 2019 – present</div>
 </div>
-<div class="cv-item-subtitle">
-Doctoral Student, Neural Information Processing · April 2019 – present
+<div class="cv-item-location">Tübingen, Germany</div>
+
+- Advisor: **Prof. Dr. Manuel Spitschan** (January 2024 – present)  
+- Advisors: **Prof. Dr. Andreas Bartels** / **Prof. Dr.-Ing. Cristóbal Curio** (April 2019 – December 2023)
+
+<div class="cv-item-header cv-item-subblock">
+  <div><strong>Master of Science, Neural Information Processing</strong></div>
+  <div class="cv-item-date">December 2017</div>
 </div>
 
-- Advisor: <strong>Prof. Dr. Manuel Spitschan</strong> (January 2024 – present)  
-- Advisors: <strong>Prof. Dr. Andreas Bartels</strong> / <strong>Prof. Dr.-Ing. Cristóbal Curio</strong> (April 2019 – December 2023)
+- Overall Grade: **1.4** (German system)
 
-<div class="cv-item-subtitle">
-Master of Science, Neural Information Processing · December 2017
-</div>
+### University of Illinois – Department of Electrical & Computer Engineering
 
-- Overall Grade: <strong>1.4</strong> (German system)
-:::
-
-::: {.cv-item}
 <div class="cv-item-header">
-  <div><strong>University of Illinois – Department of Electrical &amp; Computer Engineering</strong></div>
-  <div class="cv-item-location">Urbana-Champaign, IL, USA</div>
+  <div><strong>Graduate Research, Electrical Engineering</strong></div>
+  <div class="cv-item-date">August 2006 – August 2010</div>
 </div>
-
-<div class="cv-item-subtitle">
-Graduate Research, Electrical Engineering · August 2006 – August 2010
-</div>
+<div class="cv-item-location">Urbana-Champaign, IL, USA</div>
 
 - Emphasis: Neural Signal Processing  
-- GPA: <strong>3.79 / 4.00</strong>  
+- GPA: **3.79 / 4.00**
 
-<div class="cv-item-subtitle">
-Bachelor of Science, Electrical Engineering, with Honors · August 2002 – May 2006
+<div class="cv-item-header cv-item-subblock">
+  <div><strong>Bachelor of Science, Electrical Engineering, with Honors</strong></div>
+  <div class="cv-item-date">August 2002 – May 2006</div>
 </div>
 
-- Minors: Bioengineering; Technology &amp; Management  
-- GPA: <strong>3.76 / 4.00</strong>
-:::
-:::
+- Minors: Bioengineering; Technology & Management  
+- GPA: **3.76 / 4.00**
 
-::: {.cv-section}
-### {#research .cv-section-title} Doctoral Research Experience
+## Doctoral Research Experience
 
-::: {.cv-item}
+### Translational Sensory & Circadian Neuroscience Unit (tSCN Unit)
+
 <div class="cv-item-header">
-  <div><strong>Translational Sensory &amp; Circadian Neuroscience Unit (tSCN Unit)</strong></div>
-  <div class="cv-item-location">Munich &amp; Tübingen, Germany</div>
+  <div><strong>Research Software Engineer – Technical University of Munich</strong></div>
+  <div class="cv-item-date">February 2025 – present</div>
 </div>
+<div class="cv-item-location">Munich & Tübingen, Germany</div>
 
-<div class="cv-item-subtitle">
-Research Software Engineer – Technical University of Munich · February 2025 – present
-</div>
-<div class="cv-item-tagline">
-Project: <strong>GLEE (Global Light Exposure and Experience)</strong>
-</div>
-
+- **Project: GLEE (Global Light Exposure and Experience)**  
 - Research initiative focused on standardizing the collection and analysis of light exposure and visual experience data  
 - Lead development of modular, interoperable infrastructure for storing, managing and sharing global light exposure data  
 - Collaborate with experts and international groups to harmonize metadata standards for light-exposure research  
 
-<div class="cv-item-subtitle">
-PhD Researcher – Max Planck Institute for Biological Cybernetics · January 2024 – present
-</div>
-<div class="cv-item-tagline">
-Project: <strong>CiViBe (Circadian Modulation of Visual Function – Behavioral Outcomes)</strong>
+<div class="cv-item-header cv-item-subblock">
+  <div><strong>PhD Researcher – Max Planck Institute for Biological Cybernetics</strong></div>
+  <div class="cv-item-date">January 2024 – present</div>
 </div>
 
+- **Project: CiViBe (Circadian Modulation of Visual Function – Behavioral Outcomes)**  
 - Investigates circadian rhythms of retinal mechanisms and neuroendocrine systems  
 - Co-lead physiological data collection within a forced desynchrony protocol  
-- Analyze multimodal circadian physiology (continuous glucose monitoring, electrocardiogram, blood pressure, temperature)
-:::
+- Analyze multimodal circadian physiology (continuous glucose monitoring, electrocardiogram, blood pressure, temperature)  
 
-::: {.cv-item}
+### Cognitive Systems Laboratory
+
 <div class="cv-item-header">
-  <div><strong>Cognitive Systems Laboratory</strong></div>
-  <div class="cv-item-location">Tübingen / Reutlingen, Germany</div>
+  <div><strong>PhD Researcher – University of Tübingen / Reutlingen University</strong></div>
+  <div class="cv-item-date">April 2019 – December 2024</div>
 </div>
+<div class="cv-item-location">Tübingen / Reutlingen, Germany</div>
 
-<div class="cv-item-subtitle">
-PhD Researcher – University of Tübingen / Reutlingen University · April 2019 – December 2024
-</div>
-<div class="cv-item-tagline">
-Project: <strong>Facial Visuomotor Adaptation &amp; Vibrotactile Perceptual Aftereffects</strong>
-</div>
-
+- **Project: Facial Visuomotor Adaptation & Vibrotactile Perceptual Aftereffects**  
 - Provide insights on visuomotor control mechanisms underlying facial movement execution  
 - Built Python pipelines for real-time facial muscle activation (VICON) and toolkits for behavioral and motion signal processing  
-- Designed Unity-based visuomotor adaptation and tactile psychophysics experiments
-:::
-:::
+- Designed Unity-based visuomotor adaptation and tactile psychophysics experiments  
 
-::: {.cv-section}
-### {#outputs .cv-section-title} Select Research Outputs
+## Select Research Outputs
 
-#### Publications
+### Publications
 
-- Thalji, S. M., &amp; Spitschan, M. (2025). *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.* <em>Journal of Biological Rhythms</em>, November 2025.  
+- Thalji, S. M., & Spitschan, M. (2025). *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.* _Journal of Biological Rhythms_, November 2025.  
   Preprint: <https://doi.org/10.1101/2025.01.13.632603>
 
-#### Selected Conference Contributions
+### Selected Conference Contributions
 
-- <strong>Poster:</strong> Thalji, S. M., &amp; Spitschan, M. (2025, August 24–28).  
-  <em>dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.</em>  
+- **Poster:** Thalji, S. M., & Spitschan, M. (2025, August 24–28).  
+  *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.*  
   XVIII Congress of the European Biological Rhythms Society (EBRS 2025), Lübeck, Germany.
 
-- <strong>Poster:</strong> Thalji, S. M., Heinrichs, H. S., &amp; Spitschan, M. (2024, June 20–22).  
-  <em>Estimating the downstream perturbative effects of light stimuli used to probe the circadian modulation of retinal function.</em>  
+- **Poster:** Thalji, S. M., Heinrichs, H. S., & Spitschan, M. (2024, June 20–22).  
+  *Estimating the downstream perturbative effects of light stimuli used to probe the circadian modulation of retinal function.*  
   35th Annual Meeting of the Society for Light Treatment and Biological Rhythms (SLTBR 2024), Prague, Czech Republic.
 
-- <strong>Poster:</strong> Thalji, S. M., Rehmann, M., &amp; Curio, C. (2020, September).  
-  <em>Perceptual tactile aftereffects around the waist: Insights on the design of stimulation type.</em>  
+- **Poster:** Thalji, S. M., Rehmann, M., & Curio, C. (2020, September).  
+  *Perceptual tactile aftereffects around the waist: Insights on the design of stimulation type.*  
   Eurohaptics Conference, Leiden, The Netherlands.
-:::
 
-::: {.cv-section}
-### {#leadership .cv-section-title} Leadership &amp; Engagement
+## Leadership & Engagement
 
-::: {.cv-item}
 <div class="cv-item-header">
   <div><strong>Open Science Days – Max Planck Digital Library</strong></div>
-  <div class="cv-item-location">Berlin, Germany · November 2025</div>
+  <div class="cv-item-date">November 2025</div>
 </div>
-<div class="cv-item-subtitle">
-Lightning Talk Speaker
-</div>
-- Talk: <em>Global Light Commons: Open Science and Epistemic Equity</em>
-:::
+<div class="cv-item-location">Berlin, Germany</div>
 
-::: {.cv-item}
-<div class="cv-item-header">
+- Lightning Talk Speaker – _Global Light Commons: Open Science and Epistemic Equity_
+
+<div class="cv-item-header cv-item-subblock">
   <div><strong>Congress of the European Biological Rhythms Society 2025</strong></div>
-  <div class="cv-item-location">Lübeck, Germany · August 2025</div>
+  <div class="cv-item-date">August 2025</div>
 </div>
-<div class="cv-item-subtitle">
-Panel Moderator
-</div>
-- Symposium 7: <em>Circadian Medicine – Detecting the Clock</em>
-:::
+<div class="cv-item-location">Lübeck, Germany</div>
 
-::: {.cv-item}
-<div class="cv-item-header">
+- Panel Moderator – Symposium 7: _Circadian Medicine – Detecting the Clock_
+
+<div class="cv-item-header cv-item-subblock">
   <div><strong>Soapbox Science</strong></div>
-  <div class="cv-item-location">Tübingen, Germany · July 2025</div>
+  <div class="cv-item-date">July 2025</div>
 </div>
-<div class="cv-item-subtitle">
-Volunteer &amp; Organizer
-</div>
-- International science communication and public engagement platform highlighting women and non-binary scientists
-:::
-:::
+<div class="cv-item-location">Tübingen, Germany</div>
 
-::: {.cv-section}
-### {#teaching .cv-section-title} Teaching &amp; Mentoring
+- Volunteer & Organizer – International science communication platform highlighting women and non-binary scientists  
 
-::: {.cv-item}
+## Teaching & Mentoring
+
 <div class="cv-item-header">
-  <div><strong>MPI Biological Cybernetics &amp; Reutlingen University</strong></div>
-  <div class="cv-item-location">Germany · 2018–2025</div>
+  <div><strong>MPI Biological Cybernetics & Reutlingen University</strong></div>
+  <div class="cv-item-date">2018 – 2025</div>
 </div>
-<div class="cv-item-subtitle">
-Thesis Supervision
-</div>
-- Supervised 6 MSc theses and 2 undergraduate capstone projects
-:::
+<div class="cv-item-location">Germany</div>
 
-::: {.cv-item}
-<div class="cv-item-header">
+- Thesis supervision (6 MSc theses and 2 undergraduate capstone projects)
+
+<div class="cv-item-header cv-item-subblock">
   <div><strong>German Jordanian University – Department of Biomedical Engineering</strong></div>
-  <div class="cv-item-location">Amman, Jordan · 2011–2013</div>
+  <div class="cv-item-date">2011 – 2013</div>
 </div>
-<div class="cv-item-subtitle">
-University Lecturer
-</div>
-- Developed and taught senior undergraduate courses in Biosignals &amp; Biosystems, Medical Instrumentation and Imaging
-:::
+<div class="cv-item-location">Amman, Jordan</div>
 
-::: {.cv-item}
-<div class="cv-item-header">
+- University lecturer – Biosignals & Biosystems, Medical Instrumentation and Imaging  
+
+<div class="cv-item-header cv-item-subblock">
   <div><strong>University of Illinois at Urbana-Champaign</strong></div>
-  <div class="cv-item-location">Urbana-Champaign, USA · 2005–2008</div>
+  <div class="cv-item-date">2005 – 2008</div>
 </div>
-<div class="cv-item-subtitle">
-Head Teaching Assistant
-</div>
-- Co-designed and led laboratory experiments on development of breadboard circuits for probing physiological signals
-:::
-:::
+<div class="cv-item-location">Urbana-Champaign, USA</div>
 
-::: {.cv-section}
-### {#workshops .cv-section-title} Workshops &amp; Summer Schools
+- Head Teaching Assistant – breadboard circuits for physiological signals  
 
-- <strong>Young Entrepreneurs in Science Workshop: From Research to Innovator</strong>, Online · June 2025  
-- <strong>Research Software Engineering Summer School</strong>, KIT, Karlsruhe, Germany · September 2024  
-- <strong>5th Summer School on Computational Interaction</strong>, Columbia University, NYC, USA · July 2019
-:::
+## Workshops & Summer Schools
 
-::: {.cv-section}
-### {#skills .cv-section-title} Skills
+- **Young Entrepreneurs in Science Workshop: From Research to Innovator**, Online · June 2025  
+- **Research Software Engineering Summer School**, KIT, Karlsruhe, Germany · September 2024  
+- **5th Summer School on Computational Interaction**, Columbia University, NYC, USA · July 2019  
 
-- <strong>Laboratory:</strong> Biophysiological signal recording &amp; analysis; psychophysical experimentation; Vicon facial motion capture  
-- <strong>Computing:</strong> Python; MATLAB; R; Unity; C#  
-- <strong>Languages:</strong> English (Native); Arabic (Native); German (C1 CEFR); French (A1 CEFR)
-:::
+## Skills
 
-::: {.cv-section}
-### {#honors .cv-section-title} Honors
+- **Laboratory:** Biophysiological signal recording & analysis; psychophysical experimentation; Vicon facial motion capture  
+- **Computing:** Python; MATLAB; R; Unity; C#  
+- **Languages:** English (Native); Arabic (Native); German (C1 CEFR); French (A1 CEFR)  
 
-- Shortlisted – <strong>Software Sustainability Institute Fellowship 2026</strong> (final decision pending), November 2025  
-- <strong>RSE Community “Rising Star” Nominee</strong> – RSECon 2025, University of Warwick, UK, August 2025
-:::
+## Honors
+
+- Shortlisted – **Software Sustainability Institute Fellowship 2026** (final decision pending), November 2025  
+- **RSE Community “Rising Star” Nominee** – RSECon 2025, University of Warwick, UK, August 2025  
