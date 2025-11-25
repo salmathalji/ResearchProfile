@@ -22,7 +22,7 @@ Drawing on my training in circadian neuroscience, neuroinformatics and electrica
 
 ## Snapshot
 
-- **Areas:** _Circadian neuroscience; neuroinformatics; physiological and behavioral signal processing; research software engineering_ 
+- **Areas:** Circadian neuroscience; neuroinformatics; physiological and behavioral signal processing; research software engineering
 - **Current roles:**
   - **Research Software Engineer**, _Translational Sensory & Circadian Neuroscience Unit (tSCN)_, Technical University of Munich
   - **PhD Researcher**, _Translational Sensory & Circadian Neuroscience Unit (tSCN)_, Max Planck Institute for Biological Cybernetics
