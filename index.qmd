@@ -183,30 +183,25 @@ I’m committed to being a leader in the health exposome movement and designing 
 
 - Head Teaching Assistant – breadboard circuits for physiological signals  
 
-::: {.cv-section}
-### Workshops & Summer Schools {#workshops .cv-section-title}
+## Workshops & Summer Schools
 
-::: {.cv-item}
 <div class="cv-item-header">
   <div><strong>Young Entrepreneurs in Science Workshop: From Research to Innovator</strong></div>
-  <div class="cv-item-location">Online · June 2025</div>
+  <div class="cv-item-date">June 2025</div>
 </div>
-:::
+<div class="cv-item-location">Online</div>
 
-::: {.cv-item}
-<div class="cv-item-header">
+<div class="cv-item-header cv-item-subblock">
   <div><strong>Research Software Engineering Summer School</strong></div>
-  <div class="cv-item-location">KIT, Karlsruhe, Germany · September 2024</div>
+  <div class="cv-item-date">September 2024</div>
 </div>
-:::
+<div class="cv-item-location">KIT, Karlsruhe, Germany</div>
 
-::: {.cv-item}
-<div class="cv-item-header">
+<div class="cv-item-header cv-item-subblock">
   <div><strong>5th Summer School on Computational Interaction</strong></div>
-  <div class="cv-item-location">Columbia University, NYC, USA · July 2019</div>
+  <div class="cv-item-date">July 2019</div>
 </div>
-:::
-:::
+<div class="cv-item-location">Columbia University, NYC, USA</div>
   
 
 ## Skills
@@ -215,20 +210,16 @@ I’m committed to being a leader in the health exposome movement and designing 
 - **Computing:** Python; MATLAB; R; Unity; C#  
 - **Languages:** English (Native); Arabic (Native); German (C1 CEFR); French (A1 CEFR)  
 
-::: {.cv-section}
-### Honors {#honors .cv-section-title}
+## Honors
 
-::: {.cv-item}
 <div class="cv-item-header">
-  <div><strong>Software Sustainability Institute Fellowship 2026</strong></div>
-  <div class="cv-item-location">Shortlisted · November 2025</div>
+  <div><strong>Software Sustainability Institute Fellowship 2026 – Shortlisted</strong></div>
+  <div class="cv-item-date">November 2025</div>
 </div>
-:::
 
-::: {.cv-item}
-<div class="cv-item-header">
+<div class="cv-item-header cv-item-subblock">
   <div><strong>RSE Community “Rising Star” – RSECon 2025</strong></div>
-  <div class="cv-item-location">University of Warwick, UK · August 2025</div>
+  <div class="cv-item-date">August 2025</div>
 </div>
-:::
-:::
+<div class="cv-item-location">University of Warwick, UK</div>
+
