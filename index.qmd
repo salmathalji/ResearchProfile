@@ -1,6 +1,4 @@
 ---
-title: "Salma M. Thalji"
-subtitle: "Neural Information Processing · Circadian Neuroscience · Research Software Engineering"
 format:
   html:
     toc: false
@@ -12,6 +10,7 @@ format:
 # Salma M. Thalji
 
 _PhD Candidate in Neural Information Processing_  
+Circadian Neuroscience · Research Software Engineering
 
 University of Tübingen · Technical University of Munich  
 📧 [salma.thalji@tum.de](mailto:salma.thalji@tum.de)
@@ -19,19 +18,15 @@ University of Tübingen · Technical University of Munich
 
 ## Vision
 
-Drawing on my training in circadian neuroscience, neuroinformatics and electrical engineering, my vision is to help create a world where people can clearly understand how their everyday environments influence their wellbeing.
-
-I want health wearable technologies to evolve into companions that translate continuously monitored physiological signals, behavioral habits and environmental exposures into insights that feel personal, practical and empowering.
-
-I’m committed to being a leader in the health exposome movement and designing inclusive tools that honor gender, cultural and environmental diversity.
+Drawing on my training in circadian neuroscience, neuroinformatics and electrical engineering, my vision is to help create a world where people can clearly understand how their everyday environments influence their wellbeing. I want health wearable technologies to evolve into companions that translate continuously monitored physiological signals, behavioral habits and environmental exposures into insights that feel personal, practical and empowering. I’m committed to being a leader in the health exposome movement and designing inclusive tools that honor gender, cultural and environmental diversity.
 
 ## Snapshot
 
-- **Areas:** Circadian neuroscience; visual experience; neuroinformatics; signal processing; research software engineering  
+- **Areas:** Circadian neuroscience; neuroinformatics; physiological and behavioral signal processing; research software engineering  
 - **Current roles:**
   - Research Software Engineer, Translational Sensory & Circadian Neuroscience Unit (tSCN), Technical University of Munich
-  - PhD Researcher, Max Planck Institute for Biological Cybernetics
-- **Interests:** Health exposome; metadata standards; open science; inclusive technology design  
+  - PhD Researcher, Translational Sensory & Circadian Neuroscience Unit (tSCN), Max Planck Institute for Biological Cybernetics
+- **Interests:** Health wearables; inclusive technology design; metadata standards; open science 
 
 ## Education
 
@@ -114,24 +109,24 @@ I’m committed to being a leader in the health exposome movement and designing 
 
 ### Publications
 
-- <div><strong>Thalji, S. M.<\strong>, & Spitschan, M. (2025). *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.* _Journal of Biological Rhythms_, November 2025.  
+- <div>**Thalji, S. M.**, & Spitschan, M. (2025). *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.* _Journal of Biological Rhythms_, November 2025.  
   Preprint: <https://doi.org/10.1101/2025.01.13.632603>
   
-- Spitschan, M., Biller, A. M., Broszio, K., Fischer, E., Hegewald, J., Rabstein, S., Saathoff, E., Smolders, K., <div><strong>Thalji, S. M.<\strong>, Weigelt, S., & Weiskopf, D. (2025). *Ocular light and optical radiation exposure as a modifiable environmental determinant of health: Expert consensus on research gaps and priorities.*  
+- Spitschan, M., Biller, A. M., Broszio, K., Fischer, E., Hegewald, J., Rabstein, S., Saathoff, E., Smolders, K., **Thalji, S. M.**, Weigelt, S., & Weiskopf, D. (2025). *Ocular light and optical radiation exposure as a modifiable environmental determinant of health: Expert consensus on research gaps and priorities.*  
   Preprint: <https://doi.org/10.1101/2025.08.27.25333976>
 
 
 ### Selected Conference Contributions
 
-- **Poster:** <div><strong>Thalji, S. M.<\strong>, & Spitschan, M. (2025, August 24–28).  
+- **Poster:** **Thalji, S. M.**, & Spitschan, M. (2025, August 24–28).  
   *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.*  
   XVIII Congress of the European Biological Rhythms Society (EBRS 2025), Lübeck, Germany.
 
-- **Poster:** <div><strong>Thalji, S. M.<\strong>, Heinrichs, H. S., & Spitschan, M. (2024, June 20–22).  
+- **Poster:** **Thalji, S. M.**, Heinrichs, H. S., & Spitschan, M. (2024, June 20–22).  
   *Estimating the downstream perturbative effects of light stimuli used to probe the circadian modulation of retinal function.*  
   35th Annual Meeting of the Society for Light Treatment and Biological Rhythms (SLTBR 2024), Prague, Czech Republic.
 
-- **Poster:** <div><strong>Thalji, S. M.<\strong>, Rehmann, M., & Curio, C. (2020, September).  
+- **Poster:** **Thalji, S. M.**, Rehmann, M., & Curio, C. (2020, September).  
   *Perceptual tactile aftereffects around the waist: Insights on the design of stimulation type.*  
   Eurohaptics Conference, Leiden, The Netherlands.
 
