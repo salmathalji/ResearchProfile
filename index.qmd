@@ -213,7 +213,7 @@ Drawing on my training in circadian neuroscience, neuroinformatics and electrica
 ## Honors
 
 <div class="cv-item-header">
-  <div><strong>Software Sustainability Institute Fellowship 2026</strong> – Shortlisted (final decision pending)</div>
+  <div><strong>Software Sustainability Institute Fellowship 2026 recipient</strong></div>
   <div class="cv-item-date">November 2025</div>
 </div>
 
