@@ -123,7 +123,8 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 
 ### Preprints
 
-- Heinrichs, H. S., Zanoli, C., **Thalji, S. M.**, Gagelmann, L., Kilic, E., & Spitschan, M. (2026). *Circadian multimodal physiological, ocular and behavioural data from a 40-hour forced-desynchrony protocol.* *bioRxiv*. <https://doi.org/10.64898/2026.10.28.762537>
+- Heinrichs, H. S.<sup>†</sup>, Zanoli, C.<sup>†</sup>, **Thalji, S. M.**<sup>†</sup>, Gagelmann, L., Kilic, E., & Spitschan, M. (2026). *Circadian multimodal physiological, ocular and behavioural data from a 40-hour forced-desynchrony protocol.* *bioRxiv*. <https://doi.org/10.64898/2026.10.28.762537>\
+  <sup>†</sup>Hannah S. Heinrichs, Chiara Zanoli, and Salma M. Thalji contributed equally and share first authorship.
 
 ### Manuscript in preparation
 
