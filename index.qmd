@@ -146,7 +146,7 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 
 - **Thalji, S. M.**, Tsukimori, E., Zauner, J., & Spitschan, M. (2026, February 25–26).
   *Global Light Commons: Eine Open-Source-Infrastruktur für reproduzierbare und interoperable Lichtexpositionsforschung.*\
-  13\. Symposium Licht und Gesundheit (LuG 2026), Dortmund, Germany.
+  13th Symposium Licht und Gesundheit (LuG 2026), Dortmund, Germany.
 
 - **Thalji, S. M.**, & Spitschan, M. (2025, August 24–28).
   *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.*  
