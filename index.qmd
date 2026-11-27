@@ -42,8 +42,7 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 
 - Advisor: **Prof. Dr. Manuel Spitschan** (January 2024 – present)  
 - Advisors: **Prof. Dr. Andreas Bartels** / **Prof. Dr.-Ing. Cristóbal Curio** (April 2019 – December 2023)
-
-<p class="cv-advisor-note"><em>Due to end of funding and support, switched PhD project</em></p>
+  <span class="cv-advisor-note"><em>Due to end of funding and support, switched PhD project</em></span>
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>Master of Science, Neural Information Processing</strong></div>

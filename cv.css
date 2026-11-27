@@ -82,12 +82,8 @@ h3 {
 /* --- Lists --- */
 
 .cv-advisor-note {
-  margin-top: 0;
-  margin-left: 2rem;
-}
-
-ul:has(+ .cv-advisor-note) {
-  margin-bottom: 0;
+  display: block;
+  margin: 0;
 }
 
 .cv-supervision-group,
