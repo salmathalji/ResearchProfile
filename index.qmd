@@ -19,15 +19,15 @@ University of Tübingen · Max Planck Institute for Biological Cybernetics · Te
 
 ## Vision
 
-Drawing on my training in circadian neuroscience, neuroinformatics and electrical engineering, my vision is to help create a world where people can clearly understand how their everyday environments influence their wellbeing. I want health wearable technologies to evolve into companions that translate continuously monitored physiological signals, behavioral habits and environmental exposures into insights that feel personal, practical and empowering. I’m committed to being a leader in the health exposome movement and designing inclusive tools that honor gender, cultural and environmental diversity.
+Drawing on my training in electrical engineering, neuroinformatics and circadian neuroscience, my vision is to help create a world where people can clearly understand how their everyday environments influence their wellbeing. I want wearable sensing, computational methods and AI to transform continuously monitored physiological signals, behavioral habits and environmental exposures into insights that feel personal, practical, and empowering. I’m committed to being a leader in the health exposome movement and designing inclusive tools that honor gender, cultural and environmental diversity.
 
 ## Snapshot
 
-- **Areas:** Circadian neuroscience; neuroinformatics; physiological and behavioral signal processing; research software engineering
+- **Areas:** Circadian neuroscience; neuroinformatics; physiological and environmental sensing; research software engineering
 - **Current roles:**
   - **Research Software Engineer**, _Translational Sensory & Circadian Neuroscience Unit (tSCN)_, Technical University of Munich
   - **PhD Researcher**, _Translational Sensory & Circadian Neuroscience Unit (tSCN)_, Max Planck Institute for Biological Cybernetics
-- **Interests:** Health wearables; inclusive technology design; metadata standards; open science 
+- **Interests:** Health wearables; exposome science; computational chronobiology; inclusive technology design; open science
 
 ## Education
 
@@ -42,6 +42,8 @@ Drawing on my training in circadian neuroscience, neuroinformatics and electrica
 - Advisor: **Prof. Dr. Manuel Spitschan** (January 2024 – present)  
 - Advisors: **Prof. Dr. Andreas Bartels** / **Prof. Dr.-Ing. Cristóbal Curio** (April 2019 – December 2023)
 
+*Due to end of funding and support, switched PhD project.*
+
 <div class="cv-item-header cv-item-subblock">
   <div><strong>Master of Science, Neural Information Processing</strong></div>
   <div class="cv-item-date">December 2017</div>
@@ -52,7 +54,7 @@ Drawing on my training in circadian neuroscience, neuroinformatics and electrica
 ### University of Illinois – Department of Electrical & Computer Engineering
 
 <div class="cv-item-header">
-  <div><strong>Graduate Research, Electrical Engineering</strong></div>
+  <div><strong>Graduate Researcher, Electrical Engineering</strong></div>
   <div class="cv-item-date">August 2006 – August 2010</div>
 </div>
 <div class="cv-item-location">Urbana-Champaign, IL, USA</div>
@@ -78,60 +80,91 @@ Drawing on my training in circadian neuroscience, neuroinformatics and electrica
 </div>
 <div class="cv-item-location">Munich & Tübingen, Germany</div>
 
-- **Project: GLEE (Global Light Exposure and Experience)**  
-  <div><em>Research initiative focused on standardizing the collection and analysis of light exposure and visual experience data</em>  
-  - Lead development of modular, interoperable infrastructure for storing, managing and sharing global light exposure data  
-  - Collaborate with experts and international groups to harmonize metadata standards for light-exposure research  
+**Project: GLEE (Global Light Exposure and Experience)**
+
+*An international open-science initiative developing interoperable infrastructure for wearable light exposure and optical radiation research*
+
+- Lead the development of the Global Light Commons, an open-source ecosystem for standardized metadata, validation, discovery, and analysis of wearable light exposure datasets
+- Collaborate with international researchers to develop community standards supporting interoperable light exposure and exposome research
+- Develop software infrastructure for large-scale validation and characterization of wearable light exposure datasets
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>PhD Researcher – Max Planck Institute for Biological Cybernetics</strong></div>
   <div class="cv-item-date">January 2024 – present</div>
 </div>
 
-- **Project: CiViBe (Circadian Modulation of Visual Function – Behavioral Outcomes)**  
-  <div><em>Investigates circadian rhythms of retinal mechanisms and neuroendocrine systems</em>  
-  - Co-lead physiological data collection within a forced desynchrony protocol  
-  - Analyze multimodal circadian physiology (continuous glucose monitoring, electrocardiogram, blood pressure, temperature)  
+**Research focus:** Wearable light exposure, physiological signal processing, and circadian neuroscience
+
+- Characterize temporal patterns of real-world wearable light exposure to identify person-specific exposure profiles and examine their relationships with sleep-wake behavior and circadian timing
+- Developed dlmoR, an open-source R package for reproducible estimation of dim light melatonin onset (DLMO), published in the *Journal of Biological Rhythms*
+- Co-led physiological data collection during a forced desynchrony protocol and analyzed multimodal physiological datasets: continuous glucose monitoring, temperature, electrocardiography, blood pressure
 
 ### Cognitive Systems Laboratory
 
 <div class="cv-item-header">
-  <div><strong>PhD Researcher – University of Tübingen / Reutlingen University</strong></div>
+  <div><strong>Graduate Researcher – University of Tübingen / Reutlingen University</strong></div>
   <div class="cv-item-date">April 2019 – December 2024</div>
 </div>
 <div class="cv-item-location">Tübingen / Reutlingen, Germany</div>
 
-- **Project: Facial Visuomotor Adaptation & Vibrotactile Perceptual Aftereffects**  
-  <div><em>Provide insights on visuomotor control mechanisms underlying facial movement execution</em>  
-  - Built Python pipelines for real-time facial muscle activation (VICON) and toolkits for behavioral and motion signal processing  
-  - Designed Unity-based visuomotor adaptation and tactile psychophysics experiments  
+**Research focus:** Facial visuomotor adaptation and vibrotactile perceptual aftereffects
+
+- Built Python pipelines for extracting facial kinematics from real-time facial motion capture (VICON) and toolkits for behavioral and motion signal processing
+- Designed Unity-based visuomotor adaptation and tactile psychophysics experiments
 
 ## Select Research Outputs
 
-### Publications
+### Peer-reviewed publications {#publications}
 
-- <div>**Thalji, S. M.**, & Spitschan, M. (2025). *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.* _Journal of Biological Rhythms_, November 2025.  
-  Preprint: <https://doi.org/10.1101/2025.01.13.632603>
-  
-- Spitschan, M., Biller, A. M., Broszio, K., Fischer, E., Hegewald, J., Rabstein, S., Saathoff, E., Smolders, K., **Thalji, S. M.**, Weigelt, S., & Weiskopf, D. (2025). *Ocular light and optical radiation exposure as a modifiable environmental determinant of health: Expert consensus on research gaps and priorities.*  
-  Preprint: <https://doi.org/10.1101/2025.08.27.25333976>
+- **Thalji, S. M.**, & Spitschan, M. (2026). *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.* *Journal of Biological Rhythms, 41*(3), 301–323. <https://doi.org/10.1177/07487304251389994>
+
+- Spitschan, M., Biller, A. M., Broszio, K., Fischer, E., Hegewald, J., Rabstein, S., Saathoff, E., Smolders, K., **Thalji, S. M.**, Weigelt, S., & Weiskopf, D. (2026). *Ocular light and optical radiation exposure as a modifiable environmental determinant of health: Expert consensus on research gaps and priorities.* *BMC Medicine, 24*, 119. <https://doi.org/10.1186/s12916-025-04608-8>
+
+### Manuscript in preparation
+
+- **Thalji, S. M.**, Zauner, J., Tsukimori, E., & Spitschan, M. *The Global Light Commons: An infrastructure and community framework for light exposure in human exposome research.* Manuscript in preparation for submission to *Scientific Data*.
 
 
-### Selected Conference Contributions
+### Oral presentations {#selected-conference-contributions}
 
-- **Poster:** **Thalji, S. M.**, & Spitschan, M. (2025, August 24–28).  
+- **Thalji, S. M.** (2026, March 4). *An integrated open-source ecosystem for the storage and analysis of light exposure and visual experience data.* deRSE Conference 2026, Young Researchers Present Domain Applications Session, University of Stuttgart, Germany.
+
+### Poster presentations
+
+- **Thalji, S. M.**, Zauner, J., Tsukimori, E., Akuffo, K., Didikoglu, A., Kalavally, V., Ostrin, L., Patterson Gentile, C., Sancho Salas, A., van Duijnhoven, J., & Spitschan, M. (2026, September 11–13). *Reproducible and interoperable light exposomics with the Global Light Commons.* 37th Annual Meeting of the Society for Light, Rhythms, and Circadian Health (SLRCH 2026), Milan, Italy.
+
+- **Thalji, S. M.**, Zauner, J., Tsukimori, E., & Spitschan, M. (2026, April 27–29). *Global Light Commons: An infrastructure and community framework for light exposure in human exposome research.* The Global Exposome Summit 2026, Sitges, Spain.
+
+- **Thalji, S. M.**, Tsukimori, E., Zauner, J., & Spitschan, M. (2026, February 25–26). *Global Light Commons: Eine Open-Source-Infrastruktur für reproduzierbare und interoperable Lichtexpositionsforschung.* 13. Symposium Licht und Gesundheit (LuG 2026), Dortmund, Germany.
+
+- **Thalji, S. M.**, & Spitschan, M. (2025, August 24–28).
   *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.*  
   XVIII Congress of the European Biological Rhythms Society (EBRS 2025), Lübeck, Germany.
 
-- **Poster:** **Thalji, S. M.**, Heinrichs, H. S., & Spitschan, M. (2024, June 20–22).  
+- **Thalji, S. M.**, Heinrichs, H. S., & Spitschan, M. (2024, June 20–22).
   *Estimating the downstream perturbative effects of light stimuli used to probe the circadian modulation of retinal function.*  
   35th Annual Meeting of the Society for Light Treatment and Biological Rhythms (SLTBR 2024), Prague, Czech Republic.
 
-- **Poster:** **Thalji, S. M.**, Rehmann, M., & Curio, C. (2020, September).  
+- **Thalji, S. M.**, Rehmann, M., & Curio, C. (2020, September).
   *Perceptual tactile aftereffects around the waist: Insights on the design of stimulation type.*  
-  Eurohaptics Conference, Leiden, The Netherlands.
+  Eurohaptics Conference 2020, Leiden, The Netherlands.
 
 ## Leadership & Engagement
+
+<div class="cv-item-header">
+  <div><strong>Institute for Research Software Fellow – UK Institute for Research Software (2026 cohort)</strong></div>
+  <div class="cv-item-date">December 2025 – present</div>
+</div>
+
+- Leading the development of a chronobiology community of practice that embraces research software as an integral part of scientific practice and promotes shared, reusable tools as scientific assets
+
+<div class="cv-item-header cv-item-subblock">
+  <div><strong>Workshop Co-lead – SSI Collaborations Workshop 2026 (CW26)</strong></div>
+  <div class="cv-item-date">April 2026</div>
+</div>
+<div class="cv-item-location">Belfast, Northern Ireland</div>
+
+- *RSE across languages: How do we strengthen collaboration and community?* – spoken-language diversity and inclusion
 
 <div class="cv-item-header">
   <div><strong>Open Science Days – Max Planck Digital Library</strong></div>
@@ -139,7 +172,15 @@ Drawing on my training in circadian neuroscience, neuroinformatics and electrica
 </div>
 <div class="cv-item-location">Berlin, Germany</div>
 
-- Lightning Talk Speaker – _Global Light Commons: Open Science and Epistemic Equity_
+- Lightning Talk Speaker – _Global Light Commons: Open Science and Epistemic Equity_, Harnack-Haus
+
+<div class="cv-item-header cv-item-subblock">
+  <div><strong>37th Annual Meeting of the Society for Light, Rhythms, and Circadian Health (SLRCH 2026)</strong></div>
+  <div class="cv-item-date">September 2026</div>
+</div>
+<div class="cv-item-location">Milan, Italy</div>
+
+- Panel Moderator/Co-Chair – *Data, Devices, and Drug Timing: Innovations in Chronotherapy*
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>Congress of the European Biological Rhythms Society 2025</strong></div>
@@ -147,7 +188,7 @@ Drawing on my training in circadian neuroscience, neuroinformatics and electrica
 </div>
 <div class="cv-item-location">Lübeck, Germany</div>
 
-- Panel Moderator – Symposium 7: _Circadian Medicine – Detecting the Clock_
+- Panel Moderator/Co-Chair – Symposium 7: _Circadian Medicine – Detecting the Clock_
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>Soapbox Science</strong></div>
@@ -155,17 +196,37 @@ Drawing on my training in circadian neuroscience, neuroinformatics and electrica
 </div>
 <div class="cv-item-location">Tübingen, Germany</div>
 
-- Volunteer & Organizer – International science communication platform highlighting women and non-binary scientists  
+- Volunteer & Organizer – International science communication and public engagement platform highlighting women and non-binary scientists
 
 ## Teaching & Mentoring
 
 <div class="cv-item-header">
   <div><strong>MPI Biological Cybernetics & Reutlingen University</strong></div>
-  <div class="cv-item-date">2018 – 2025</div>
+  <div class="cv-item-date">2018 – present</div>
 </div>
 <div class="cv-item-location">Germany</div>
 
-- Thesis supervision (6 MSc theses and 2 undergraduate capstone projects)
+- Mentored & supervised: 1 Max Planck POSTECH Junior Fellow, 1 Erasmus+ post-graduate research project, 6 MSc theses
+
+### Max Planck Institute for Biological Cybernetics – tSCN Unit
+
+<div class="cv-item-location">Tübingen, Germany</div>
+
+- **Eunhyo Kim.** *Advancing new methods for dim light melatonin onset (DLMO) analysis.* (MPK program) — October 2026 – March 2027
+- **Chiara Zanoli.** *Cardiovascular and thermoregulatory physiology during Forced Desynchrony.* (Erasmus+) — April 2026 – present
+- **Diana Glebowicz.** *Inference and validation of behavioral events in glucose dynamics.* — April 2025 – October 2025
+
+### Reutlingen University – Department of Informatics
+
+<div class="cv-item-location">Reutlingen, Germany</div>
+
+- **Dominik Walczak.** *Neural network data generation for data-driven facial animations using facial action units.* — 2020 – 2021
+- **Tim Wiedemer.** *Motion capture driven avatar technology for virtual non-verbal real-time communication.* — 2019 – 2020
+- **Frauke Grieble.** *Effects of self-perception on the experience of emotions via the presentation of an avatar.* — 2018 – 2019
+- **Sina Frommer.** *Development of a generalized tactile interface for sensory substitution of visual information.* — 2018 – 2019
+- **Markus Rehmann.** *Evaluating aftereffects of vibrotactile feedback on the waist for automated driving.* — 2018
+
+### University teaching
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>German Jordanian University – Department of Biomedical Engineering</strong></div>
@@ -173,7 +234,7 @@ Drawing on my training in circadian neuroscience, neuroinformatics and electrica
 </div>
 <div class="cv-item-location">Amman, Jordan</div>
 
-- University lecturer – Biosignals & Biosystems, Medical Instrumentation and Imaging  
+- University lecturer – Developed and taught senior undergraduate courses in Biosignals & Biosystems, Medical Instrumentation and Imaging
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>University of Illinois at Urbana-Champaign</strong></div>
@@ -181,9 +242,21 @@ Drawing on my training in circadian neuroscience, neuroinformatics and electrica
 </div>
 <div class="cv-item-location">Urbana-Champaign, USA</div>
 
-- Head Teaching Assistant – breadboard circuits for physiological signals  
+- Head Teaching Assistant – Co-designed and led a laboratory course on development of breadboard circuits for probing physiological signals
 
-## Workshops & Summer Schools
+## Workshops & Schools {#workshops-summer-schools}
+
+<div class="cv-item-header">
+  <div><strong>Short course: Machine learning of wearables in large scale biomedical studies</strong></div>
+  <div class="cv-item-date">September 2026</div>
+</div>
+<div class="cv-item-location">University of Oxford, UK</div>
+
+<div class="cv-item-header cv-item-subblock">
+  <div><strong>SSI Collaborations Workshop 2026: Strengthening the Research Software Community</strong></div>
+  <div class="cv-item-date">April 2026</div>
+</div>
+<div class="cv-item-location">Belfast, Northern Ireland</div>
 
 <div class="cv-item-header">
   <div><strong>Young Entrepreneurs in Science Workshop: From Research to Innovator</strong></div>
@@ -206,19 +279,30 @@ Drawing on my training in circadian neuroscience, neuroinformatics and electrica
 
 ## Skills
 
-- **Laboratory:** Biophysiological signal recording & analysis; psychophysical experimentation; Vicon facial motion capture  
-- **Computing:** Python; MATLAB; R; Unity; C#  
+- **Programming & software development:** Python; R; MATLAB; C#; Unity; scientific software development; Git/GitHub version control; reproducible workflows
+- **Scientific computing:** Physiological signal processing; time-series analysis; wearable physiological and environmental data analysis; metadata and data standards
+- **Selected coursework:** Digital Signal Processing; Advanced Statistics; Neural Data Analysis; Machine Learning; Neural Coding, Dynamics & Motor Control; Psychophysics
+- **Laboratory:** Biophysiological signal recording & analysis; psychophysical experimentation; Vicon facial motion capture
 - **Languages:** English (Native); Arabic (Native); German (C1 CEFR); French (A1 CEFR)  
 
-## Honors
+## Recent Honors {#honors}
 
 <div class="cv-item-header">
-  <div><strong>Software Sustainability Institute Fellowship 2026 recipient</strong></div>
-  <div class="cv-item-date">November 2025</div>
+  <div><strong>Cyber Valley AI Incubator, Batch 9 – Selected Team</strong></div>
+  <div class="cv-item-date">October 2026</div>
 </div>
 
+- Competitively selected as one of 7 teams from 66 applications to develop an AI venture at the intersection of environmental exposure, wearable data, and personalized health
+
 <div class="cv-item-header cv-item-subblock">
-  <div><strong>RSE Community “Rising Star” – RSECon 2025</strong></div>
+  <div><strong>Institute for Research Software Fellow 2026 – Competitive fellowship award (£4,000 project funding)</strong></div>
+  <div class="cv-item-date">December 2025</div>
+</div>
+
+- Fostering a community of practice around the development and reuse of research software in chronobiology
+
+<div class="cv-item-header cv-item-subblock">
+  <div><strong>RSE Community “Rising Star” Nominee – RSECon 2025</strong></div>
   <div class="cv-item-date">August 2025</div>
 </div>
 <div class="cv-item-location">University of Warwick, UK</div>

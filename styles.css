@@ -5,6 +5,11 @@ body {
   line-height: 1.5;
 }
 
+/* Keep publication URLs within the page on narrow screens. */
+main a {
+  overflow-wrap: anywhere;
+}
+
 /* --- Colours & variables --- */
 
 :root {
