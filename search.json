@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "contributing.html",
     "href": "contributing.html",
     "title": "Contributing",
     "section": "",
     "text": "Describe how people can contribute to this project"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "put the terms of the license here"
+  },
+  {
+    "objectID": "license.html#license-type",
+    "href": "license.html#license-type",
+    "title": "License",
+    "section": "",
+    "text": "put the terms of the license here"
   },
   {
     "objectID": "index.html",
@@ -81,27 +102,6 @@
     "href": "index.html#honors",
     "title": "Salma M. Thalji",
     "section": "Recent Honors",
-    "text": "Recent Honors\n\n\nCyber Valley AI Incubator, Batch 9 – Selected Team\n\n\nOctober 2026\n\n\n\nCompetitively selected as one of 7 teams from 66 applications to develop an AI venture at the intersection of environmental exposure, wearable data, and personalized health\n\n\n\nInstitute for Research Software Fellow 2026 – Competitive fellowship award (£4,000 project funding)\n\n\nDecember 2025\n\n\n\nFostering a community of practice around the development and reuse of research software in chronobiology\n\n\n\nRSE Community “Rising Star” Nominee – RSECon 2025\n\n\nAugust 2025\n\n\n\nUniversity of Warwick, UK"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "put the terms of the license here"
-  },
-  {
-    "objectID": "license.html#license-type",
-    "href": "license.html#license-type",
-    "title": "License",
-    "section": "",
-    "text": "put the terms of the license here"
+    "text": "Recent Honors\n\n\nCyber Valley AI Incubator, Batch 9 – Selected Team\n\n\nOctober 2026\n\n\nCompetitively selected as one of 7 teams from 66 applications to develop an AI venture at the intersection of environmental exposure, wearable data, and personalized health\n\n\nInstitute for Research Software Fellow 2026 – Competitive fellowship award (£4,000 project funding)\n\n\nDecember 2025\n\n\nFostering a community of practice around the development and reuse of research software in chronobiology\n\n\nRSE Community “Rising Star” Nominee – RSECon 2025\n\n\nAugust 2025\n\n\n\nUniversity of Warwick, UK"
   }
 ]
