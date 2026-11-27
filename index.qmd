@@ -170,9 +170,9 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
   <div><strong>Open Science Days – Max Planck Digital Library</strong></div>
   <div class="cv-item-date">November 2025</div>
 </div>
-<div class="cv-item-location">Berlin, Germany</div>
+<div class="cv-item-location">Harnack-Haus, Berlin, Germany</div>
 
-- Lightning Talk Speaker – _Global Light Commons: Open Science and Epistemic Equity_, Harnack-Haus
+- Lightning Talk Speaker – _Global Light Commons: Open Science and Epistemic Equity_
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>37th Annual Meeting of the Society for Light, Rhythms, and Circadian Health (SLRCH 2026)</strong></div>
@@ -201,50 +201,78 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 ## Teaching & Mentoring
 
 <div class="cv-item-header">
-  <div><strong>MPI Biological Cybernetics & Reutlingen University</strong></div>
+  <div><strong>Thesis supervision</strong> – MPI Biological Cybernetics & Reutlingen University</div>
   <div class="cv-item-date">2018 – present</div>
 </div>
 <div class="cv-item-location">Germany</div>
 
 - Mentored & supervised: 1 Max Planck POSTECH Junior Fellow, 1 Erasmus+ post-graduate research project, 6 MSc theses
 
-### Max Planck Institute for Biological Cybernetics – tSCN Unit
-
+<div class="cv-supervision-group"><strong>Max Planck Institute for Biological Cybernetics – tSCN Unit</strong></div>
 <div class="cv-item-location">Tübingen, Germany</div>
 
-- **Eunhyo Kim.** *Advancing new methods for dim light melatonin onset (DLMO) analysis.* (MPK program) — October 2026 – March 2027
-- **Chiara Zanoli.** *Cardiovascular and thermoregulatory physiology during Forced Desynchrony.* (Erasmus+) — April 2026 – present
-- **Diana Glebowicz.** *Inference and validation of behavioral events in glucose dynamics.* — April 2025 – October 2025
+<div class="cv-supervision-entry">
+  <div>Eunhyo Kim. <em>Advancing new methods for dim light melatonin onset (DLMO) analysis.</em> (MPK program)</div>
+  <div class="cv-item-date">October 2026 – March 2027</div>
+</div>
+<div class="cv-supervision-entry">
+  <div>Chiara Zanoli. <em>Cardiovascular and thermoregulatory physiology during Forced Desynchrony.</em> (Erasmus+)</div>
+  <div class="cv-item-date">April 2026 – present</div>
+</div>
+<div class="cv-supervision-entry">
+  <div>Diana Glebowicz. <em>Inference and validation of behavioral events in glucose dynamics.</em></div>
+  <div class="cv-item-date">April 2025 – October 2025</div>
+</div>
 
-### Reutlingen University – Department of Informatics
-
+<div class="cv-supervision-group"><strong>Reutlingen University – Department of Informatics</strong></div>
 <div class="cv-item-location">Reutlingen, Germany</div>
 
-- **Dominik Walczak.** *Neural network data generation for data-driven facial animations using facial action units.* — 2020 – 2021
-- **Tim Wiedemer.** *Motion capture driven avatar technology for virtual non-verbal real-time communication.* — 2019 – 2020
-- **Frauke Grieble.** *Effects of self-perception on the experience of emotions via the presentation of an avatar.* — 2018 – 2019
-- **Sina Frommer.** *Development of a generalized tactile interface for sensory substitution of visual information.* — 2018 – 2019
-- **Markus Rehmann.** *Evaluating aftereffects of vibrotactile feedback on the waist for automated driving.* — 2018
+<div class="cv-supervision-entry">
+  <div>Dominik Walczak. <em>Neural network data generation for data-driven facial animations using facial action units.</em></div>
+  <div class="cv-item-date">2020 – 2021</div>
+</div>
+<div class="cv-supervision-entry">
+  <div>Tim Wiedemer. <em>Motion capture driven avatar technology for virtual non-verbal real-time communication.</em></div>
+  <div class="cv-item-date">2019 – 2020</div>
+</div>
+<div class="cv-supervision-entry">
+  <div>Frauke Grieble. <em>Effects of self-perception on the experience of emotions via the presentation of an avatar.</em></div>
+  <div class="cv-item-date">2018 – 2019</div>
+</div>
+<div class="cv-supervision-entry">
+  <div>Sina Frommer. <em>Development of a generalized tactile interface for sensory substitution of visual information.</em></div>
+  <div class="cv-item-date">2018 – 2019</div>
+</div>
+<div class="cv-supervision-entry">
+  <div>Markus Rehmann. <em>Evaluating aftereffects of vibrotactile feedback on the waist for automated driving.</em></div>
+  <div class="cv-item-date">2018</div>
+</div>
 
-### University teaching
-
-<div class="cv-item-header cv-item-subblock">
-  <div><strong>German Jordanian University – Department of Biomedical Engineering</strong></div>
+<div class="cv-item-header cv-teaching-role">
+  <div><strong>University lecturer</strong> – German Jordanian University, Department of Biomedical Engineering</div>
   <div class="cv-item-date">2011 – 2013</div>
 </div>
 <div class="cv-item-location">Amman, Jordan</div>
 
-- University lecturer – Developed and taught senior undergraduate courses in Biosignals & Biosystems, Medical Instrumentation and Imaging
+Developed and taught senior undergraduate courses in Biosignals & Biosystems, Medical Instrumentation and Imaging
 
-<div class="cv-item-header cv-item-subblock">
-  <div><strong>University of Illinois at Urbana-Champaign</strong></div>
+<div class="cv-item-header cv-teaching-role">
+  <div><strong>Head Teaching Assistant</strong> – University of Illinois at Urbana-Champaign</div>
   <div class="cv-item-date">2005 – 2008</div>
 </div>
 <div class="cv-item-location">Urbana-Champaign, USA</div>
 
-- Head Teaching Assistant – Co-designed and led a laboratory course on development of breadboard circuits for probing physiological signals
+Co-designed and led a laboratory course on development of breadboard circuits for probing physiological signals
 
 ## Workshops & Schools {#workshops-summer-schools}
+
+<div class="cv-item-header">
+  <div><strong><a href="https://startupinitiative.maxplanckfoundation.org/en/ventureher-summit/">VentureHER Summit</a> – Max Planck Foundation Start-up Initiative</strong></div>
+  <div class="cv-item-date">November 13, 2026</div>
+</div>
+<div class="cv-item-location">Max Planck Institute for Empirical Aesthetics, Frankfurt am Main, Germany</div>
+
+Attended the summit for female researchers and aspiring founders.
 
 <div class="cv-item-header">
   <div><strong>Short course: Machine learning of wearables in large scale biomedical studies</strong></div>

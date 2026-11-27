@@ -81,6 +81,23 @@ h3 {
 
 /* --- Lists --- */
 
+.cv-supervision-group,
+.cv-teaching-role {
+  margin-top: 1.25rem;
+}
+
+.cv-supervision-entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) max-content;
+  align-items: baseline;
+  column-gap: 1rem;
+  margin: 0.3rem 0;
+}
+
+.cv-supervision-entry .cv-item-date {
+  text-align: right;
+}
+
 ul {
   margin-top: 0.25rem;
   margin-bottom: 0.75rem;
@@ -94,6 +111,13 @@ ul {
     align-items: flex-start;
   }
   .cv-item-date {
+    text-align: left;
+  }
+  .cv-supervision-entry {
+    grid-template-columns: minmax(0, 1fr);
+    margin-bottom: 0.75rem;
+  }
+  .cv-supervision-entry .cv-item-date {
     text-align: left;
   }
 }
