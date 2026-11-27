@@ -136,11 +136,17 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 
 ### Poster presentations
 
-- **Thalji, S. M.**, Zauner, J., Tsukimori, E., Akuffo, K., Didikoglu, A., Kalavally, V., Ostrin, L., Patterson Gentile, C., Sancho Salas, A., van Duijnhoven, J., & Spitschan, M. (2026, September 11–13). *Reproducible and interoperable light exposomics with the Global Light Commons.* 37th Annual Meeting of the Society for Light, Rhythms, and Circadian Health (SLRCH 2026), Milan, Italy.
+- **Thalji, S. M.**, Zauner, J., Tsukimori, E., Akuffo, K., Didikoglu, A., Kalavally, V., Ostrin, L., Patterson Gentile, C., Sancho Salas, A., van Duijnhoven, J., & Spitschan, M. (2026, September 11–13).
+  *Reproducible and interoperable light exposomics with the Global Light Commons.*\
+  37th Annual Meeting of the Society for Light, Rhythms, and Circadian Health (SLRCH 2026), Milan, Italy.
 
-- **Thalji, S. M.**, Zauner, J., Tsukimori, E., & Spitschan, M. (2026, April 27–29). *Global Light Commons: An infrastructure and community framework for light exposure in human exposome research.* The Global Exposome Summit 2026, Sitges, Spain.
+- **Thalji, S. M.**, Zauner, J., Tsukimori, E., & Spitschan, M. (2026, April 27–29).
+  *Global Light Commons: An infrastructure and community framework for light exposure in human exposome research.*\
+  The Global Exposome Summit 2026, Sitges, Spain.
 
-- **Thalji, S. M.**, Tsukimori, E., Zauner, J., & Spitschan, M. (2026, February 25–26). *Global Light Commons: Eine Open-Source-Infrastruktur für reproduzierbare und interoperable Lichtexpositionsforschung.* 13. Symposium Licht und Gesundheit (LuG 2026), Dortmund, Germany.
+- **Thalji, S. M.**, Tsukimori, E., Zauner, J., & Spitschan, M. (2026, February 25–26).
+  *Global Light Commons: Eine Open-Source-Infrastruktur für reproduzierbare und interoperable Lichtexpositionsforschung.*\
+  13. Symposium Licht und Gesundheit (LuG 2026), Dortmund, Germany.
 
 - **Thalji, S. M.**, & Spitschan, M. (2025, August 24–28).
   *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.*  
