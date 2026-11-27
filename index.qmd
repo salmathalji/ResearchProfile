@@ -208,7 +208,7 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 
 - Mentored & supervised: 1 Max Planck POSTECH Junior Fellow, 1 Erasmus+ post-graduate research project, 6 MSc theses
 
-<div class="cv-supervision-group"><strong>Max Planck Institute for Biological Cybernetics – tSCN Unit</strong></div>
+<div class="cv-supervision-group">Max Planck Institute for Biological Cybernetics – tSCN Unit</div>
 <div class="cv-item-location">Tübingen, Germany</div>
 
 <div class="cv-supervision-entry">
@@ -224,7 +224,7 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
   <div class="cv-item-date">April 2025 – October 2025</div>
 </div>
 
-<div class="cv-supervision-group"><strong>Reutlingen University – Department of Informatics</strong></div>
+<div class="cv-supervision-group">Reutlingen University – Department of Informatics</div>
 <div class="cv-item-location">Reutlingen, Germany</div>
 
 <div class="cv-supervision-entry">
@@ -267,12 +267,10 @@ Co-designed and led a laboratory course on development of breadboard circuits fo
 ## Workshops & Schools {#workshops-summer-schools}
 
 <div class="cv-item-header">
-  <div><strong><a href="https://startupinitiative.maxplanckfoundation.org/en/ventureher-summit/">VentureHER Summit</a> – Max Planck Foundation Start-up Initiative</strong></div>
-  <div class="cv-item-date">November 13, 2026</div>
+  <div><strong>VentureHER Summit – Max Planck Foundation Start-up Initiative</strong></div>
+  <div class="cv-item-date">November 2026</div>
 </div>
 <div class="cv-item-location">Max Planck Institute for Empirical Aesthetics, Frankfurt am Main, Germany</div>
-
-Attended the summit for female researchers and aspiring founders.
 
 <div class="cv-item-header">
   <div><strong>Short course: Machine learning of wearables in large scale biomedical studies</strong></div>
