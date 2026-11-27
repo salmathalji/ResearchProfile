@@ -14,6 +14,7 @@ Circadian Neuroscience · Research Software Engineering
 
 University of Tübingen · Max Planck Institute for Biological Cybernetics · Technical University of Munich  
 📧 [salma.thalji@tum.de](mailto:salma.thalji@tum.de)
+[ORCID](https://orcid.org/0009-0002-7320-9289)
 [LinkedIn](https://www.linkedin.com/in/salma-thalji)
 :::
 
@@ -119,6 +120,10 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 - **Thalji, S. M.**, & Spitschan, M. (2026). *dlmoR: An open-source R package for the dim-light melatonin onset (DLMO) hockey-stick method.* *Journal of Biological Rhythms, 41*(3), 301–323. <https://doi.org/10.1177/07487304251389994>
 
 - Spitschan, M., Biller, A. M., Broszio, K., Fischer, E., Hegewald, J., Rabstein, S., Saathoff, E., Smolders, K., **Thalji, S. M.**, Weigelt, S., & Weiskopf, D. (2026). *Ocular light and optical radiation exposure as a modifiable environmental determinant of health: Expert consensus on research gaps and priorities.* *BMC Medicine, 24*, 119. <https://doi.org/10.1186/s12916-025-04608-8>
+
+### Preprints
+
+- Heinrichs, H. S., Zanoli, C., **Thalji, S. M.**, Gagelmann, L., Kilic, E., & Spitschan, M. (2026). *Circadian multimodal physiological, ocular and behavioural data from a 40-hour forced-desynchrony protocol.* *bioRxiv*. <https://doi.org/10.64898/2026.10.28.762537>
 
 ### Manuscript in preparation
 
