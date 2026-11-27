@@ -156,7 +156,7 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
   <div class="cv-item-date">December 2025 – present</div>
 </div>
 
-- Leading the development of a chronobiology community of practice that embraces research software as an integral part of scientific practice and promotes shared, reusable tools as scientific assets
+Leading the development of a chronobiology community of practice that embraces research software as an integral part of scientific practice and promotes shared, reusable tools as scientific assets
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>Workshop Co-lead – SSI Collaborations Workshop 2026 (CW26)</strong></div>
@@ -164,7 +164,7 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 </div>
 <div class="cv-item-location">Belfast, Northern Ireland</div>
 
-- *RSE across languages: How do we strengthen collaboration and community?* – spoken-language diversity and inclusion
+*RSE across languages: How do we strengthen collaboration and community?* – spoken-language diversity and inclusion
 
 <div class="cv-item-header">
   <div><strong>Open Science Days – Max Planck Digital Library</strong></div>
@@ -172,7 +172,7 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 </div>
 <div class="cv-item-location">Harnack-Haus, Berlin, Germany</div>
 
-- Lightning Talk Speaker – _Global Light Commons: Open Science and Epistemic Equity_
+Lightning Talk Speaker – _Global Light Commons: Open Science and Epistemic Equity_
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>37th Annual Meeting of the Society for Light, Rhythms, and Circadian Health (SLRCH 2026)</strong></div>
@@ -180,7 +180,7 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 </div>
 <div class="cv-item-location">Milan, Italy</div>
 
-- Panel Moderator/Co-Chair – *Data, Devices, and Drug Timing: Innovations in Chronotherapy*
+Panel Moderator/Co-Chair – *Data, Devices, and Drug Timing: Innovations in Chronotherapy*
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>Congress of the European Biological Rhythms Society 2025</strong></div>
@@ -188,7 +188,7 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 </div>
 <div class="cv-item-location">Lübeck, Germany</div>
 
-- Panel Moderator/Co-Chair – Symposium 7: _Circadian Medicine – Detecting the Clock_
+Panel Moderator/Co-Chair – Symposium 7: _Circadian Medicine – Detecting the Clock_
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>Soapbox Science</strong></div>
@@ -196,7 +196,7 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 </div>
 <div class="cv-item-location">Tübingen, Germany</div>
 
-- Volunteer & Organizer – International science communication and public engagement platform highlighting women and non-binary scientists
+Volunteer & Organizer – International science communication and public engagement platform highlighting women and non-binary scientists
 
 ## Teaching & Mentoring
 
@@ -206,8 +206,9 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 </div>
 <div class="cv-item-location">Germany</div>
 
-- Mentored & supervised: 1 Max Planck POSTECH Junior Fellow, 1 Erasmus+ post-graduate research project, 6 MSc theses
+**Mentored & supervised:** 1 Max Planck POSTECH Junior Fellow, 1 Erasmus+ post-graduate research project, 6 MSc theses
 
+<div class="cv-supervision-details">
 <div class="cv-supervision-group">Max Planck Institute for Biological Cybernetics – tSCN Unit</div>
 <div class="cv-item-location">Tübingen, Germany</div>
 
@@ -246,6 +247,7 @@ Drawing on my training in electrical engineering, neuroinformatics and circadian
 <div class="cv-supervision-entry">
   <div>Markus Rehmann. <em>Evaluating aftereffects of vibrotactile feedback on the waist for automated driving.</em></div>
   <div class="cv-item-date">2018</div>
+</div>
 </div>
 
 <div class="cv-item-header cv-teaching-role">
@@ -305,11 +307,15 @@ Co-designed and led a laboratory course on development of breadboard circuits fo
 
 ## Skills
 
-- **Programming & software development:** Python; R; MATLAB; C#; Unity; scientific software development; Git/GitHub version control; reproducible workflows
-- **Scientific computing:** Physiological signal processing; time-series analysis; wearable physiological and environmental data analysis; metadata and data standards
-- **Selected coursework:** Digital Signal Processing; Advanced Statistics; Neural Data Analysis; Machine Learning; Neural Coding, Dynamics & Motor Control; Psychophysics
-- **Laboratory:** Biophysiological signal recording & analysis; psychophysical experimentation; Vicon facial motion capture
-- **Languages:** English (Native); Arabic (Native); German (C1 CEFR); French (A1 CEFR)  
+**Programming & software development:** Python; R; MATLAB; C#; Unity; scientific software development; Git/GitHub version control; reproducible workflows
+
+**Scientific computing:** Physiological signal processing; time-series analysis; wearable physiological and environmental data analysis; metadata and data standards
+
+**Selected coursework:** Digital Signal Processing; Advanced Statistics; Neural Data Analysis; Machine Learning; Neural Coding, Dynamics & Motor Control; Psychophysics
+
+**Laboratory:** Biophysiological signal recording & analysis; psychophysical experimentation; Vicon facial motion capture
+
+**Languages:** English (Native); Arabic (Native); German (C1 CEFR); French (A1 CEFR)
 
 ## Recent Honors {#honors}
 
