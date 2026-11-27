@@ -3,7 +3,7 @@ on:
   push:
     branches: main
 
-name: Quarto Publish
+name: Publish CV Redirect
 
 jobs:
   build-deploy:
@@ -17,11 +17,14 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render website and preserve CV stylesheet
+      - name: Prepare redirects to the personal homepage
         run: |
-          quarto render
-          cp cv.css _site/cv.css
-          cmp cv.css _site/cv.css
+          rm -rf _site
+          mkdir -p _site
+          for page in index about contributing license 404; do
+            cp redirect/index.html "_site/$page.html"
+          done
+          touch _site/.nojekyll
 
       - name: Publish rendered website
         uses: quarto-dev/quarto-actions/publish@v2
