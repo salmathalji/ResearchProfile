@@ -87,9 +87,13 @@ h3 {
 }
 
 .cv-supervision-group {
-  font-size: 0.9rem;
-  font-weight: 400;
-  color: var(--cv-muted);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #444444;
+}
+
+.cv-supervision-details {
+  margin-left: 1rem;
 }
 
 .cv-supervision-entry {

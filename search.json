@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "contributing.html",
     "href": "contributing.html",
     "title": "Contributing",
     "section": "",
     "text": "Describe how people can contribute to this project"
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "put the terms of the license here"
-  },
-  {
-    "objectID": "license.html#license-type",
-    "href": "license.html#license-type",
-    "title": "License",
-    "section": "",
-    "text": "put the terms of the license here"
   },
   {
     "objectID": "index.html",
@@ -74,14 +53,14 @@
     "href": "index.html#leadership-engagement",
     "title": "Salma M. Thalji",
     "section": "Leadership & Engagement",
-    "text": "Leadership & Engagement\n\n\nInstitute for Research Software Fellow – UK Institute for Research Software (2026 cohort)\n\n\nDecember 2025 – present\n\n\n\nLeading the development of a chronobiology community of practice that embraces research software as an integral part of scientific practice and promotes shared, reusable tools as scientific assets\n\n\n\nWorkshop Co-lead – SSI Collaborations Workshop 2026 (CW26)\n\n\nApril 2026\n\n\n\nBelfast, Northern Ireland\n\n\nRSE across languages: How do we strengthen collaboration and community? – spoken-language diversity and inclusion\n\n\n\nOpen Science Days – Max Planck Digital Library\n\n\nNovember 2025\n\n\n\nHarnack-Haus, Berlin, Germany\n\n\nLightning Talk Speaker – Global Light Commons: Open Science and Epistemic Equity\n\n\n\n37th Annual Meeting of the Society for Light, Rhythms, and Circadian Health (SLRCH 2026)\n\n\nSeptember 2026\n\n\n\nMilan, Italy\n\n\nPanel Moderator/Co-Chair – Data, Devices, and Drug Timing: Innovations in Chronotherapy\n\n\n\nCongress of the European Biological Rhythms Society 2025\n\n\nAugust 2025\n\n\n\nLübeck, Germany\n\n\nPanel Moderator/Co-Chair – Symposium 7: Circadian Medicine – Detecting the Clock\n\n\n\nSoapbox Science\n\n\nJuly 2025\n\n\n\nTübingen, Germany\n\n\nVolunteer & Organizer – International science communication and public engagement platform highlighting women and non-binary scientists"
+    "text": "Leadership & Engagement\n\n\nInstitute for Research Software Fellow – UK Institute for Research Software (2026 cohort)\n\n\nDecember 2025 – present\n\n\nLeading the development of a chronobiology community of practice that embraces research software as an integral part of scientific practice and promotes shared, reusable tools as scientific assets\n\n\nWorkshop Co-lead – SSI Collaborations Workshop 2026 (CW26)\n\n\nApril 2026\n\n\n\nBelfast, Northern Ireland\n\nRSE across languages: How do we strengthen collaboration and community? – spoken-language diversity and inclusion\n\n\nOpen Science Days – Max Planck Digital Library\n\n\nNovember 2025\n\n\n\nHarnack-Haus, Berlin, Germany\n\nLightning Talk Speaker – Global Light Commons: Open Science and Epistemic Equity\n\n\n37th Annual Meeting of the Society for Light, Rhythms, and Circadian Health (SLRCH 2026)\n\n\nSeptember 2026\n\n\n\nMilan, Italy\n\nPanel Moderator/Co-Chair – Data, Devices, and Drug Timing: Innovations in Chronotherapy\n\n\nCongress of the European Biological Rhythms Society 2025\n\n\nAugust 2025\n\n\n\nLübeck, Germany\n\nPanel Moderator/Co-Chair – Symposium 7: Circadian Medicine – Detecting the Clock\n\n\nSoapbox Science\n\n\nJuly 2025\n\n\n\nTübingen, Germany\n\nVolunteer & Organizer – International science communication and public engagement platform highlighting women and non-binary scientists"
   },
   {
     "objectID": "index.html#teaching-mentoring",
     "href": "index.html#teaching-mentoring",
     "title": "Salma M. Thalji",
     "section": "Teaching & Mentoring",
-    "text": "Teaching & Mentoring\n\n\nThesis supervision – MPI Biological Cybernetics & Reutlingen University\n\n\n2018 – present\n\n\n\nGermany\n\n\nMentored & supervised: 1 Max Planck POSTECH Junior Fellow, 1 Erasmus+ post-graduate research project, 6 MSc theses\n\n\nMax Planck Institute for Biological Cybernetics – tSCN Unit\n\n\nTübingen, Germany\n\n\n\nEunhyo Kim. Advancing new methods for dim light melatonin onset (DLMO) analysis. (MPK program)\n\n\nOctober 2026 – March 2027\n\n\n\n\nChiara Zanoli. Cardiovascular and thermoregulatory physiology during Forced Desynchrony. (Erasmus+)\n\n\nApril 2026 – present\n\n\n\n\nDiana Glebowicz. Inference and validation of behavioral events in glucose dynamics.\n\n\nApril 2025 – October 2025\n\n\n\nReutlingen University – Department of Informatics\n\n\nReutlingen, Germany\n\n\n\nDominik Walczak. Neural network data generation for data-driven facial animations using facial action units.\n\n\n2020 – 2021\n\n\n\n\nTim Wiedemer. Motion capture driven avatar technology for virtual non-verbal real-time communication.\n\n\n2019 – 2020\n\n\n\n\nFrauke Grieble. Effects of self-perception on the experience of emotions via the presentation of an avatar.\n\n\n2018 – 2019\n\n\n\n\nSina Frommer. Development of a generalized tactile interface for sensory substitution of visual information.\n\n\n2018 – 2019\n\n\n\n\nMarkus Rehmann. Evaluating aftereffects of vibrotactile feedback on the waist for automated driving.\n\n\n2018\n\n\n\n\nUniversity lecturer – German Jordanian University, Department of Biomedical Engineering\n\n\n2011 – 2013\n\n\n\nAmman, Jordan\n\nDeveloped and taught senior undergraduate courses in Biosignals & Biosystems, Medical Instrumentation and Imaging\n\n\nHead Teaching Assistant – University of Illinois at Urbana-Champaign\n\n\n2005 – 2008\n\n\n\nUrbana-Champaign, USA\n\nCo-designed and led a laboratory course on development of breadboard circuits for probing physiological signals"
+    "text": "Teaching & Mentoring\n\n\nThesis supervision – MPI Biological Cybernetics & Reutlingen University\n\n\n2018 – present\n\n\n\nGermany\n\nMentored & supervised: 1 Max Planck POSTECH Junior Fellow, 1 Erasmus+ post-graduate research project, 6 MSc theses\n\n\nMax Planck Institute for Biological Cybernetics – tSCN Unit\n\n\nTübingen, Germany\n\n\n\nEunhyo Kim. Advancing new methods for dim light melatonin onset (DLMO) analysis. (MPK program)\n\n\nOctober 2026 – March 2027\n\n\n\n\nChiara Zanoli. Cardiovascular and thermoregulatory physiology during Forced Desynchrony. (Erasmus+)\n\n\nApril 2026 – present\n\n\n\n\nDiana Glebowicz. Inference and validation of behavioral events in glucose dynamics.\n\n\nApril 2025 – October 2025\n\n\n\nReutlingen University – Department of Informatics\n\n\nReutlingen, Germany\n\n\n\nDominik Walczak. Neural network data generation for data-driven facial animations using facial action units.\n\n\n2020 – 2021\n\n\n\n\nTim Wiedemer. Motion capture driven avatar technology for virtual non-verbal real-time communication.\n\n\n2019 – 2020\n\n\n\n\nFrauke Grieble. Effects of self-perception on the experience of emotions via the presentation of an avatar.\n\n\n2018 – 2019\n\n\n\n\nSina Frommer. Development of a generalized tactile interface for sensory substitution of visual information.\n\n\n2018 – 2019\n\n\n\n\nMarkus Rehmann. Evaluating aftereffects of vibrotactile feedback on the waist for automated driving.\n\n\n2018\n\n\n\n\n\nUniversity lecturer – German Jordanian University, Department of Biomedical Engineering\n\n\n2011 – 2013\n\n\n\nAmman, Jordan\n\nDeveloped and taught senior undergraduate courses in Biosignals & Biosystems, Medical Instrumentation and Imaging\n\n\nHead Teaching Assistant – University of Illinois at Urbana-Champaign\n\n\n2005 – 2008\n\n\n\nUrbana-Champaign, USA\n\nCo-designed and led a laboratory course on development of breadboard circuits for probing physiological signals"
   },
   {
     "objectID": "index.html#workshops-summer-schools",
@@ -95,7 +74,7 @@
     "href": "index.html#skills",
     "title": "Salma M. Thalji",
     "section": "Skills",
-    "text": "Skills\n\nProgramming & software development: Python; R; MATLAB; C#; Unity; scientific software development; Git/GitHub version control; reproducible workflows\nScientific computing: Physiological signal processing; time-series analysis; wearable physiological and environmental data analysis; metadata and data standards\nSelected coursework: Digital Signal Processing; Advanced Statistics; Neural Data Analysis; Machine Learning; Neural Coding, Dynamics & Motor Control; Psychophysics\nLaboratory: Biophysiological signal recording & analysis; psychophysical experimentation; Vicon facial motion capture\nLanguages: English (Native); Arabic (Native); German (C1 CEFR); French (A1 CEFR)"
+    "text": "Skills\nProgramming & software development: Python; R; MATLAB; C#; Unity; scientific software development; Git/GitHub version control; reproducible workflows\nScientific computing: Physiological signal processing; time-series analysis; wearable physiological and environmental data analysis; metadata and data standards\nSelected coursework: Digital Signal Processing; Advanced Statistics; Neural Data Analysis; Machine Learning; Neural Coding, Dynamics & Motor Control; Psychophysics\nLaboratory: Biophysiological signal recording & analysis; psychophysical experimentation; Vicon facial motion capture\nLanguages: English (Native); Arabic (Native); German (C1 CEFR); French (A1 CEFR)"
   },
   {
     "objectID": "index.html#honors",
@@ -103,5 +82,26 @@
     "title": "Salma M. Thalji",
     "section": "Recent Honors",
     "text": "Recent Honors\n\n\nCyber Valley AI Incubator, Batch 9 – Selected Team\n\n\nOctober 2026\n\n\n\nCompetitively selected as one of 7 teams from 66 applications to develop an AI venture at the intersection of environmental exposure, wearable data, and personalized health\n\n\n\nInstitute for Research Software Fellow 2026 – Competitive fellowship award (£4,000 project funding)\n\n\nDecember 2025\n\n\n\nFostering a community of practice around the development and reuse of research software in chronobiology\n\n\n\nRSE Community “Rising Star” Nominee – RSECon 2025\n\n\nAugust 2025\n\n\n\nUniversity of Warwick, UK"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "put the terms of the license here"
+  },
+  {
+    "objectID": "license.html#license-type",
+    "href": "license.html#license-type",
+    "title": "License",
+    "section": "",
+    "text": "put the terms of the license here"
   }
 ]
