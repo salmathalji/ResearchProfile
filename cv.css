@@ -81,6 +81,10 @@ h3 {
 
 /* --- Lists --- */
 
+.cv-advisor-note {
+  margin-left: 2rem;
+}
+
 .cv-supervision-group,
 .cv-teaching-role {
   margin-top: 1.25rem;
