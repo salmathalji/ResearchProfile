@@ -20,8 +20,8 @@ jobs:
       - name: Render website and preserve CV stylesheet
         run: |
           quarto render
-          cp styles.css _site/styles.css
-          cmp styles.css _site/styles.css
+          cp cv.css _site/cv.css
+          cmp cv.css _site/cv.css
 
       - name: Publish rendered website
         uses: quarto-dev/quarto-actions/publish@v2
