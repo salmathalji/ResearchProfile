@@ -324,14 +324,14 @@ Co-designed and led a laboratory course on development of breadboard circuits fo
   <div class="cv-item-date">October 2026</div>
 </div>
 
-- Competitively selected as one of 7 teams from 66 applications to develop an AI venture at the intersection of environmental exposure, wearable data, and personalized health
+Competitively selected as one of 7 teams from 66 applications to develop an AI venture at the intersection of environmental exposure, wearable data, and personalized health
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>Institute for Research Software Fellow 2026 – Competitive fellowship award (£4,000 project funding)</strong></div>
   <div class="cv-item-date">December 2025</div>
 </div>
 
-- Fostering a community of practice around the development and reuse of research software in chronobiology
+Fostering a community of practice around the development and reuse of research software in chronobiology
 
 <div class="cv-item-header cv-item-subblock">
   <div><strong>RSE Community “Rising Star” Nominee – RSECon 2025</strong></div>
